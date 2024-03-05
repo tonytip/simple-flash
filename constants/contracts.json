@@ -1,0 +1,10 @@
+{
+    "bsc": {
+        "simple-swap": "0x78E45B32A389e9b863b5ae712E1925cc9B278B56",
+        "swap-router": "0x1b81D678ffb9C0263b24A97847620C99d213eB14"
+    },
+    "bsc-testnet": {
+        "simple-swap": "0x78E45B32A389e9b863b5ae712E1925cc9B278B56",
+        "swap-router": "0x1b81D678ffb9C0263b24A97847620C99d213eB14"
+    }
+}

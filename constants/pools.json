@@ -1,0 +1,4972 @@
+[
+    {
+        "id": "0x36696169c63e42cd08ce11f5deebbcebae652050",
+        "feeTier": "500",
+        "totalValueLockedUSD": "48679470.26557270460617524116576772",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "USDT_WBNB"
+    },
+    {
+        "id": "0x4f31fa980a675570939b737ebdde0471a4be40eb",
+        "feeTier": "500",
+        "totalValueLockedUSD": "33869344.413701078825004906",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "USDC",
+        "token1Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "pair": "USDT_USDC"
+    },
+    {
+        "id": "0xd4dca84e1808da3354924cd243c66828cf775470",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "25966713.81563393880786472611438867",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "BTCB",
+        "token1Id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "pair": "ETH_BTCB"
+    },
+    {
+        "id": "0x92b7807bf19b7dddf89b706143896d05228f3121",
+        "feeTier": "100",
+        "totalValueLockedUSD": "25345395.031808496879544707",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "USDC",
+        "token1Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "pair": "USDT_USDC"
+    },
+    {
+        "id": "0xfab21cb9467e9badd22a2de57bcde5f53d925973",
+        "feeTier": "500",
+        "totalValueLockedUSD": "20574545.855869931369037412",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "BNX",
+        "token1Id": "0x5b1f874d0b0c5ee17a495cbb70ab8bf64107a3bd",
+        "pair": "USDT_BNX"
+    },
+    {
+        "id": "0x133b3d95bad5405d14d53473671200e9342896bf",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "19294478.52367594584580565894398823",
+        "token0": "Cake",
+        "token0Id": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "Cake_WBNB"
+    },
+    {
+        "id": "0x46cf1cf8c69595804ba91dfdd8d6b960c9b0a7c4",
+        "feeTier": "500",
+        "totalValueLockedUSD": "8206855.857933863978287026098632881",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "BTCB",
+        "token1Id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "pair": "USDT_BTCB"
+    },
+    {
+        "id": "0x7d05c84581f0c41ad80ddf677a510360bae09a5a",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "7926118.185715828041572194139243969",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ETH_WBNB"
+    },
+    {
+        "id": "0x4bba1018b967e59220b22ca03f68821a3276c9a6",
+        "feeTier": "500",
+        "totalValueLockedUSD": "7919060.368215352613752475507442063",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "BTCB",
+        "token1Id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "pair": "ETH_BTCB"
+    },
+    {
+        "id": "0x7f51c8aaa6b0599abd16674e2b17fec7a9f674a1",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "7797408.399220390670618295679911533",
+        "token0": "Cake",
+        "token0Id": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "Cake_USDT"
+    },
+    {
+        "id": "0x379044e32f5a162233e82de19da852255d0951b8",
+        "feeTier": "500",
+        "totalValueLockedUSD": "7391353.580764696675654889202440064",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "wBETH",
+        "token1Id": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
+        "pair": "ETH_wBETH"
+    },
+    {
+        "id": "0xfc75f4e78bf71ed5066db9ca771d4ccb7c1264e0",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "6260225.110998583714163463973583968",
+        "token0": "BTCB",
+        "token0Id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "BTCB_WBNB"
+    },
+    {
+        "id": "0x8b626acfb32cdad0d2f3b493eb9928bba1bbbcca",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "5050444.288652595227420762433298029",
+        "token0": "CKP",
+        "token0Id": "0x2b5d9adea07b590b638ffc165792b2c610eda649",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "CKP_WBNB"
+    },
+    {
+        "id": "0x172fcd41e0913e95784454622d1c3724f546f849",
+        "feeTier": "100",
+        "totalValueLockedUSD": "4688253.915688713720831171223473018",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "USDT_WBNB"
+    },
+    {
+        "id": "0xd0e226f674bbf064f54ab47f42473ff80db98cba",
+        "feeTier": "500",
+        "totalValueLockedUSD": "4585887.094666877046299894815821532",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ETH_WBNB"
+    },
+    {
+        "id": "0x4f3126d5de26413abdcf6948943fb9d0847d9818",
+        "feeTier": "100",
+        "totalValueLockedUSD": "4480428.494428392649306550402241208",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "BUSD",
+        "token1Id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "pair": "USDT_BUSD"
+    },
+    {
+        "id": "0x891513b1640ff394217758e0b93ac153bd87af6e",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "3755542.81714547756255798",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "TFX",
+        "token1Id": "0xbe7bdd5d57ddd667347764b13626b90175ab852b",
+        "pair": "USDT_TFX"
+    },
+    {
+        "id": "0x1e8d7ab96323953fac85ab687f5d38b45344e62d",
+        "feeTier": "500",
+        "totalValueLockedUSD": "3636373.07582610569355011",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "CGPT",
+        "token1Id": "0x9840652dc04fb9db2c43853633f0f62be6f00f98",
+        "pair": "USDT_CGPT"
+    },
+    {
+        "id": "0x6bbc40579ad1bbd243895ca0acb086bb6300d636",
+        "feeTier": "500",
+        "totalValueLockedUSD": "3533218.830532219194925964567880399",
+        "token0": "BTCB",
+        "token0Id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "BTCB_WBNB"
+    },
+    {
+        "id": "0x89a6be1ec107c911c3f2a1112f049f876ce033c9",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "2612422.861895746744246646",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "STG",
+        "token1Id": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
+        "pair": "USDT_STG"
+    },
+    {
+        "id": "0xbf72b6485e4b31601afe7b0a1210be2004d2b1d6",
+        "feeTier": "100",
+        "totalValueLockedUSD": "2582170.917762930452149438",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "FDUSD",
+        "token1Id": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+        "pair": "USDT_FDUSD"
+    },
+    {
+        "id": "0x673516e510d702ab5f2bbf0c6b545111a85f7ea7",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "2513245.244914686519201408711571957",
+        "token0": "ADA",
+        "token0Id": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ADA_WBNB"
+    },
+    {
+        "id": "0x9474e972f49605315763c296b122cbb998b615cf",
+        "feeTier": "500",
+        "totalValueLockedUSD": "2347134.906266738759972907134730978",
+        "token0": "SnBNB",
+        "token0Id": "0xb0b84d294e0c75a6abe60171b70edeb2efd14a1b",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "SnBNB_WBNB"
+    },
+    {
+        "id": "0x6a4116345bd9446af758000476b144cf5da626c0",
+        "feeTier": "100",
+        "totalValueLockedUSD": "2123168.058565702254398044",
+        "token0": "DAO",
+        "token0Id": "0x4d2d32d8652058bf98c772953e1df5c5c85d9f45",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "DAO_USDT"
+    },
+    {
+        "id": "0x539e0ebfffd39e54a0f7e5f8fec40ade7933a664",
+        "feeTier": "500",
+        "totalValueLockedUSD": "1934909.001673259877691313205591166",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "USDC",
+        "token1Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "pair": "ETH_USDC"
+    },
+    {
+        "id": "0x0b2a5404b97c792a4c7b4ca7a3ae04fdbb2c2b1a",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "1641756.042793378353376468",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "GHNY",
+        "token1Id": "0xa045e37a0d1dd3a45fefb8803d22457abc0a728a",
+        "pair": "USDT_GHNY"
+    },
+    {
+        "id": "0xce6160bb594fc055c943f59de92cee30b8c6b32c",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "1638485.403181609523597685139536034",
+        "token0": "DOGE",
+        "token0Id": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "DOGE_WBNB"
+    },
+    {
+        "id": "0xbf185cccda42a4e384bc27ed9b27b6444d5f4843",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "1603183.370329950843278353451857676",
+        "token0": "PAID",
+        "token0Id": "0xad86d0e9764ba90ddd68747d64bffbd79879a238",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "PAID_WBNB"
+    },
+    {
+        "id": "0x64ebb904e169cb94e9788fcb68283b4c894ed881",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "1581969.328819749135356247598242604",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "SFP",
+        "token1Id": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+        "pair": "WBNB_SFP"
+    },
+    {
+        "id": "0x0e1893beeb4d0913d26b9614b18aea29c56d94b9",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "1535856.301221663437471844676625896",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "LINK",
+        "token1Id": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+        "pair": "WBNB_LINK"
+    },
+    {
+        "id": "0x1a92c1b200ed1064e7569c455b5aab3098df99c2",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "1525155.217012887873628514170237481",
+        "token0": "ARCAS",
+        "token0Id": "0xad0926ecf31719263dc86426024794332d9dd9a3",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ARCAS_WBNB"
+    },
+    {
+        "id": "0xeb705c5271d70c62f94248abb53772c231021021",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "1459712.578188015560850710631617636",
+        "token0": "ALU",
+        "token0Id": "0x8263cd1601fe73c066bf49cc09841f35348e3be0",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ALU_WBNB"
+    },
+    {
+        "id": "0xd10612a288bd5024db6a47663750996d176130fe",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "1454609.59182816231794409",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "AXL",
+        "token1Id": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
+        "pair": "USDT_AXL"
+    },
+    {
+        "id": "0x80968a476e0235a026fd1f33aaac5a3b7b76110f",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "1441804.802386406525957176512729036",
+        "token0": "AIOZ",
+        "token0Id": "0x33d08d8c7a168333a85285a68c0042b39fc3741d",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "AIOZ_WBNB"
+    },
+    {
+        "id": "0x62f0546cbcd684f7c394d8549119e072527c41bc",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "1362103.911698513186592913993914681",
+        "token0": "DOT",
+        "token0Id": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "DOT_WBNB"
+    },
+    {
+        "id": "0xbe6494e2b4f5a1200afe9f915b52962544c83f65",
+        "feeTier": "100",
+        "totalValueLockedUSD": "1324294.99925932338935305",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "GC",
+        "token1Id": "0x64cf1e2cab86694ac8b31653460faa47a68f59f0",
+        "pair": "USDT_GC"
+    },
+    {
+        "id": "0x85bea4fbc57fa22b41fb1632f0d9a6a99390fd0a",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "1321196.508183184607819453884565439",
+        "token0": "PENDLE",
+        "token0Id": "0xb3ed0a426155b79b898849803e3b36552f7ed507",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "PENDLE_WBNB"
+    },
+    {
+        "id": "0x1e4600929edf7f36b4a7eac4c7571057d82a246c",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "1293880.815170590373320154927423639",
+        "token0": "SOL",
+        "token0Id": "0x570a5d26f7765ecb712c0924e4de545b89fd43df",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "SOL_WBNB"
+    },
+    {
+        "id": "0x85faac652b707fdf6907ef726751087f9e0b6687",
+        "feeTier": "500",
+        "totalValueLockedUSD": "1277441.305356651379207458401486066",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "BUSD",
+        "token1Id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "pair": "WBNB_BUSD"
+    },
+    {
+        "id": "0x647d99772863e09f47435782cbb6c96ec4a75f12",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "1253927.851782556911671785362951561",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "UNI",
+        "token1Id": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+        "pair": "WBNB_UNI"
+    },
+    {
+        "id": "0x967eed039c86fb4aa8f766eb95e81b2a5eaf903f",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "1182681.149595822590589720036529648",
+        "token0": "BTCB",
+        "token0Id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "token1": "WRUB",
+        "token1Id": "0x72f74fb5382a7a49b5c6e8437a04d65bf2ff5736",
+        "pair": "BTCB_WRUB"
+    },
+    {
+        "id": "0xd15b00e81f98a7db25f1dc1ba6e983a4316c4cac",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "1143244.629833819189061559754704767",
+        "token0": "XRP",
+        "token0Id": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "XRP_WBNB"
+    },
+    {
+        "id": "0xd881d9d0e0767719701305c614903f555d589586",
+        "feeTier": "100",
+        "totalValueLockedUSD": "1073694.381912997978458756",
+        "token0": "TUSD",
+        "token0Id": "0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "TUSD_USDT"
+    },
+    {
+        "id": "0xb2e7da5063caaf0319427eacb1ad602f2767f80c",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "1012965.22843696013884052",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "LAI",
+        "token1Id": "0x776f9987d9deed90eed791cbd824d971fd5ccf09",
+        "pair": "USDT_LAI"
+    },
+    {
+        "id": "0x7d633fc97698716d391256cc0235c5f576cefbd7",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "940937.2175708353416896280000000002",
+        "token0": "TMT",
+        "token0Id": "0x4803ac6b79f9582f69c4fa23c72cb76dd1e46d8d",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "TMT_USDT"
+    },
+    {
+        "id": "0x2296cbbefeaef6c0b07db56f75d769c0d357b5be",
+        "feeTier": "500",
+        "totalValueLockedUSD": "917903.7523584332827525519999999998",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "OFN",
+        "token1Id": "0x8899ec96ed8c96b5c86c23c3f069c3def75b6d97",
+        "pair": "USDT_OFN"
+    },
+    {
+        "id": "0x088464e4e8cc54bf91180cbb8c61c68aecc74166",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "913697.1354381059825561539446726579",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "MGP",
+        "token1Id": "0xd06716e1ff2e492cc5034c2e81805562dd3b45fa",
+        "pair": "WBNB_MGP"
+    },
+    {
+        "id": "0xbe141893e4c6ad9272e8c04bab7e6a10604501a5",
+        "feeTier": "500",
+        "totalValueLockedUSD": "880381.2551691846967880034501184156",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "ETH_USDT"
+    },
+    {
+        "id": "0x0125ac49a5c06ccfd0819e6e20ccbe09bde35140",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "790921.191737755491168012",
+        "token0": "VIA",
+        "token0Id": "0x21ac3bb914f90a2bb1a16088e673a9fdda641434",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "VIA_USDT"
+    },
+    {
+        "id": "0x55458175c5f5d34b9bd01c81f172780ed4271b23",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "752887.4570474130563084120000000002",
+        "token0": "AITECH",
+        "token0Id": "0x2d060ef4d6bf7f9e5edde373ab735513c0e4f944",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "AITECH_USDT"
+    },
+    {
+        "id": "0xf89068b387771c706f5451c25204f9f2d42e371d",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "747575.358120985417141852",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "NUM",
+        "token1Id": "0xeceb87cf00dcbf2d4e2880223743ff087a995ad9",
+        "pair": "USDT_NUM"
+    },
+    {
+        "id": "0xcc9834a4e8b5b22bdfb0fcc7d43430ff9dabedca",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "746254.8938940083787211100553963679",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "DRIPX",
+        "token1Id": "0xecbce2c13d3a1248debfd23dcc0558b495916756",
+        "pair": "WBNB_DRIPX"
+    },
+    {
+        "id": "0xb2657f72fb6d66a5efcab957c4ec0ee30d46d826",
+        "feeTier": "100",
+        "totalValueLockedUSD": "710807.2287837456642815699999999999",
+        "token0": "SQR",
+        "token0Id": "0x2b72867c32cf673f7b02d208b26889fed353b1f8",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "SQR_USDT"
+    },
+    {
+        "id": "0xafb2da14056725e3ba3a30dd846b6bbbd7886c56",
+        "feeTier": "500",
+        "totalValueLockedUSD": "707870.1194547583403203125595797471",
+        "token0": "Cake",
+        "token0Id": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "Cake_WBNB"
+    },
+    {
+        "id": "0x505d091fd01b3d4340827a3737c950f030cdd9a7",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "703168.8360345755939984359991880998",
+        "token0": "FIL",
+        "token0Id": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "FIL_WBNB"
+    },
+    {
+        "id": "0x803036ac78752ef599ec75c500ac8b0ac0be67df",
+        "feeTier": "100",
+        "totalValueLockedUSD": "622715.2481234923297827760000000001",
+        "token0": "axlUSDC",
+        "token0Id": "0x4268b8f0b87b6eae5d897996e6b845ddbd99adf3",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "axlUSDC_USDT"
+    },
+    {
+        "id": "0xa2c1e0237bf4b58bc9808a579715df57522f41b2",
+        "feeTier": "500",
+        "totalValueLockedUSD": "616763.2756632792359328319726017381",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "CELL",
+        "token1Id": "0xd98438889ae7364c7e2a3540547fad042fb24642",
+        "pair": "WBNB_CELL"
+    },
+    {
+        "id": "0x369482c78bad380a036cab827fe677c1903d1523",
+        "feeTier": "500",
+        "totalValueLockedUSD": "614570.3326566283489334204577776593",
+        "token0": "BTCB",
+        "token0Id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "token1": "BUSD",
+        "token1Id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "pair": "BTCB_BUSD"
+    },
+    {
+        "id": "0xa2caadd68881f49b30c78caabee74062bc13c2f3",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "611308.224235497168582276",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "GAME",
+        "token1Id": "0x66109633715d2110dda791e64a7b2afadb517abb",
+        "pair": "USDT_GAME"
+    },
+    {
+        "id": "0x9f7eea64e1427ed1aebbb2c721dd59389905c09a",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "572563.512281607723650756",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "P2PPOWER",
+        "token1Id": "0xcd11af4550e0436fe94071fc67e414f1c24fa392",
+        "pair": "USDT_P2PPOWER"
+    },
+    {
+        "id": "0xd4bd253861824f3984136250845bff8af6000d3c",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "569846.2459200635836671722849207203",
+        "token0": "MASK",
+        "token0Id": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "MASK_WBNB"
+    },
+    {
+        "id": "0x93ba6af467c7b46b44d5c0bb300270c732510c9c",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "567524.3453666080570639117751160921",
+        "token0": "Manta",
+        "token0Id": "0x8581cc815e40615998f4561f3e24e68066293595",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "Manta_WBNB"
+    },
+    {
+        "id": "0xc773f8873fa213117b3b56fb970e30ab9d5feb9d",
+        "feeTier": "100",
+        "totalValueLockedUSD": "565502.1101434963887113759999999999",
+        "token0": "CGPT",
+        "token0Id": "0x9840652dc04fb9db2c43853633f0f62be6f00f98",
+        "token1": "BUSD",
+        "token1Id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "pair": "CGPT_BUSD"
+    },
+    {
+        "id": "0x004a335932d50f666011935677d96a366af3eae2",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "564014.4701140405653171591611298663",
+        "token0": "MB4",
+        "token0Id": "0x4536819095a8969c94362ba130ee0bb1cda714cb",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "MB4_WBNB"
+    },
+    {
+        "id": "0x302e26e9bda986709b5f504d3426c2310e6383c6",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "561744.3760362282071384400000000001",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "XCAD",
+        "token1Id": "0xa026ad2ceda16ca5fc28fd3c72f99e2c332c8a26",
+        "pair": "USDT_XCAD"
+    },
+    {
+        "id": "0x001405fadd5d49ee1838f3a96e42e0028ad9d7ef",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "550338.4273198809705091144281002199",
+        "token0": "ZIG",
+        "token0Id": "0x8c907e0a72c3d55627e853f4ec6a96b0c8771145",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ZIG_WBNB"
+    },
+    {
+        "id": "0x5a1fe6d5026cc3736cfb7316dbcfbf63d82cc789",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "548814.4178166706170919351497567143",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "MBX",
+        "token1Id": "0xf95a5532d67c944dfa7eddd2f8c358fe0dc7fac2",
+        "pair": "WBNB_MBX"
+    },
+    {
+        "id": "0x77d5b2560e4b84b3fc58875cb0133f39560e8ae3",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "544176.5800204635548074130220978595",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "XVS",
+        "token1Id": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+        "pair": "WBNB_XVS"
+    },
+    {
+        "id": "0xcded0952c8cbf5843130dc8cbcb092e9b211d9a7",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "533597.4200637463814731980000000001",
+        "token0": "GMM",
+        "token0Id": "0x5b6bf0c7f989de824677cfbd507d9635965e9cd3",
+        "token1": "USDC",
+        "token1Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "pair": "GMM_USDC"
+    },
+    {
+        "id": "0x4167f229a0323f480518b61cb35ed4d6a0c5ea27",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "533000.41154147021033194",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "DMAIL",
+        "token1Id": "0xcc6f1e1b87cfcbe9221808d2d85c501aab0b5192",
+        "pair": "USDT_DMAIL"
+    },
+    {
+        "id": "0xd7efcd3a6f56d91eccde4412d702d9c4fb069672",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "527924.1294483177803195579999999999",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "POOLX",
+        "token1Id": "0xbaea9aba1454df334943951d51116ae342eab255",
+        "pair": "USDT_POOLX"
+    },
+    {
+        "id": "0xc2b3dbbf26d43617036b0eba53ad2dbd945adebf",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "523875.7149118933218486296570318547",
+        "token0": "C98",
+        "token0Id": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "C98_WBNB"
+    },
+    {
+        "id": "0xeb415b089e2ac0acdec90fa793dfa4467799b3d9",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "519921.9313601370247589920000000001",
+        "token0": "CDX",
+        "token0Id": "0x1c3ba6cf2676cc795db02a3b2093e5076f5f330e",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "CDX_USDT"
+    },
+    {
+        "id": "0x9f6eb6903c1277c8f02d71f8814dc9998199af1d",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "511896.2805039187768883811645847198",
+        "token0": "Cake",
+        "token0Id": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "token1": "BUSD",
+        "token1Id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "pair": "Cake_BUSD"
+    },
+    {
+        "id": "0x19b43ae43701818c4dfe61329c578a2c6d82b504",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "501269.3768789524069194335285461854",
+        "token0": "DOGGY",
+        "token0Id": "0x74926b3d118a63f6958922d3dc05eb9c6e6e00c6",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "DOGGY_WBNB"
+    },
+    {
+        "id": "0x4b36782b47a28ee003013e7c56174cb5812f418b",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "488898.2608623362926432780000000001",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "NFP",
+        "token1Id": "0x75e8ddb518bb757b4282cd5b83bb70d4101d12fb",
+        "pair": "USDT_NFP"
+    },
+    {
+        "id": "0x380a466ae6896d7d4fcd571e1e24cd5061a836b3",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "485621.4283426489339381290031877909",
+        "token0": "Cake",
+        "token0Id": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "token1": "BTCB",
+        "token1Id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "pair": "Cake_BTCB"
+    },
+    {
+        "id": "0x4ee93f55dc38ca634f0178ea7f6fd81c6559e7ac",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "484877.088817397406043464",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "LITT",
+        "token1Id": "0xcebef3df1f3c5bfd90fde603e71f31a53b11944d",
+        "pair": "USDT_LITT"
+    },
+    {
+        "id": "0x821eb9ea4c057a76bd59e2d49dafb155ffdc7628",
+        "feeTier": "500",
+        "totalValueLockedUSD": "478673.2350711295687946156454572085",
+        "token0": "HOOK",
+        "token0Id": "0xa260e12d2b924cb899ae80bb58123ac3fee1e2f0",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "HOOK_WBNB"
+    },
+    {
+        "id": "0xbf967038092dd7af17c6f1f4b8da8949b7943741",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "473878.3620930238401952365993337483",
+        "token0": "FI",
+        "token0Id": "0x1294f4183763743c7c9519bec51773fb3acd78fd",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "FI_WBNB"
+    },
+    {
+        "id": "0xdcf714c05a04cf115afca0a5351d044c4e4149df",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "451963.9739530438215315584441900862",
+        "token0": "TLOS",
+        "token0Id": "0xb6c53431608e626ac81a9776ac3e999c5556717c",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "TLOS_WBNB"
+    },
+    {
+        "id": "0xd465d9c13c43003f5b874e0d96a6030336ed50eb",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "451588.6630364911264362819999999999",
+        "token0": "DCK",
+        "token0Id": "0x16faf9daa401aa42506af503aa3d80b871c467a3",
+        "token1": "BUSD",
+        "token1Id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "pair": "DCK_BUSD"
+    },
+    {
+        "id": "0x517f28453b947ba01fe6a6b193294d4576528826",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "445773.607228470869329291121891934",
+        "token0": "Cake",
+        "token0Id": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "token1": "ETH",
+        "token1Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "pair": "Cake_ETH"
+    },
+    {
+        "id": "0xc6dddcf94e53f8997dab999a32a3aa8fd3f7f106",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "445658.8181417260927984000000000001",
+        "token0": "VC",
+        "token0Id": "0x2bf83d080d8bc4715984e75e5b3d149805d11751",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "VC_USDT"
+    },
+    {
+        "id": "0x6425bc30d0751af5181fc74a50e760b0e4a19811",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "439120.03277741195109162",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "EDU",
+        "token1Id": "0xbdeae1ca48894a1759a8374d63925f21f2ee2639",
+        "pair": "USDT_EDU"
+    },
+    {
+        "id": "0xe297e1da9a484e609d180c5b1fefe4830df70ef1",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "434791.2324428479423966962507983168",
+        "token0": "RDP",
+        "token0Id": "0x27c073e8427aa493a90b8dc8b73a89e670fd77bb",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "RDP_WBNB"
+    },
+    {
+        "id": "0xb24cd29e32facddf9e73831d5cd1ffcd1e535423",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "425955.3403660871145246960000000001",
+        "token0": "GTAI",
+        "token0Id": "0x003d87d02a2a01e9e8a20f507c83e15dd83a33d1",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "GTAI_USDT"
+    },
+    {
+        "id": "0x2fdf9b25df26e81598c09ef7482a82e2ec6eb68c",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "422255.2088141624874834160000000001",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "ACE",
+        "token1Id": "0xc27a719105a987b4c34116223cae8bd8f4b5def4",
+        "pair": "USDT_ACE"
+    },
+    {
+        "id": "0x66baa9e43e64c8a85bc3c04debf9e7686be5b09c",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "411978.371875724950889304",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "MBX",
+        "token1Id": "0xf95a5532d67c944dfa7eddd2f8c358fe0dc7fac2",
+        "pair": "USDT_MBX"
+    },
+    {
+        "id": "0xc6e5e7845547056679862e747f9541b88b604fad",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "407313.1018769342945250499999999999",
+        "token0": "USDC",
+        "token0Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "token1": "TLOS",
+        "token1Id": "0xb6c53431608e626ac81a9776ac3e999c5556717c",
+        "pair": "USDC_TLOS"
+    },
+    {
+        "id": "0xfb5c2d2f2cf7741ba1a7be2ffabed248bd9b888e",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "391202.7202419009007797084185236704",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "EDU",
+        "token1Id": "0xbdeae1ca48894a1759a8374d63925f21f2ee2639",
+        "pair": "WBNB_EDU"
+    },
+    {
+        "id": "0x660b571d34b91bc4c2fffbf8957ad50b5fac56f4",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "388814.947737055366767482",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "VINU",
+        "token1Id": "0xfebe8c1ed424dbf688551d4e2267e7a53698f0aa",
+        "pair": "USDT_VINU"
+    },
+    {
+        "id": "0x3b4568933f86122e3a19814b1d42aa27fe429c3b",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "384160.8280692409403324884787789039",
+        "token0": "RIO",
+        "token0Id": "0x8c49a510756224e887b3d99d00d959f2d86dda1c",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "RIO_WBNB"
+    },
+    {
+        "id": "0x9a5936bab8f9ae1d89da5fa95c484f7ad597c8c0",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "382516.1091398669187543378804958325",
+        "token0": "XRGB",
+        "token0Id": "0x5cc5e64ab764a0f1e97f23984e20fd4528356a6a",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "XRGB_WBNB"
+    },
+    {
+        "id": "0x9c56d383159ec6ddc59ffa4d1ac56aed05a01de2",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "379160.8792635977968694944586184312",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "MATIC",
+        "token1Id": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+        "pair": "WBNB_MATIC"
+    },
+    {
+        "id": "0xa51da87491f9bcd649ef8f89d07e07526a659509",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "374712.199183750610421286",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "BVSD",
+        "token1Id": "0x7f9ad7a5854658d984924e868187b2135514fb88",
+        "pair": "USDT_BVSD"
+    },
+    {
+        "id": "0x032ab93b734bef57d98552eb56839f0995d4fb28",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "361467.9887379600853379618685383003",
+        "token0": "TRUMP",
+        "token0Id": "0x4ea98c1999575aaadfb38237dd015c5e773f75a2",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "TRUMP_WBNB"
+    },
+    {
+        "id": "0xedb6d7d456a570f790185af9f6b99020cc578ed0",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "360710.9003584711852678579999999999",
+        "token0": "EGO",
+        "token0Id": "0x44a21b3577924dcd2e9c81a3347d204c36a55466",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "EGO_USDT"
+    },
+    {
+        "id": "0x8a876ca851063e0252654ca6368a5b2280f51c32",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "358115.0286589718890397088413705423",
+        "token0": "Cake",
+        "token0Id": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "token1": "sdCAKE",
+        "token1Id": "0x6a1c1447f97b27da23dc52802f5f1435b5ac821a",
+        "pair": "Cake_sdCAKE"
+    },
+    {
+        "id": "0x9dd70024ff211ba754c089cdee47bdedc17c4cbe",
+        "feeTier": "500",
+        "totalValueLockedUSD": "345187.905219436609508272",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "wROSE",
+        "token1Id": "0xf00600ebc7633462bc4f9c61ea2ce99f5aaebd4a",
+        "pair": "USDT_wROSE"
+    },
+    {
+        "id": "0xb624fe83dfc393aab921ebbc2bf38fdd238f2380",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "339244.6575700784941889139999999999",
+        "token0": "OVN",
+        "token0Id": "0x259b30c916e440fb79747cd559207ffdabbae057",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "OVN_USDT"
+    },
+    {
+        "id": "0x729c9a7e1f642eab4019dfb0d467f4a9838e7cbd",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "336637.4665238418404003229026276021",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "GAL",
+        "token1Id": "0xe4cc45bb5dbda06db6183e8bf016569f40497aa5",
+        "pair": "WBNB_GAL"
+    },
+    {
+        "id": "0x7b1db35fbd95548777b9079527e8fa2a70fb2ce0",
+        "feeTier": "500",
+        "totalValueLockedUSD": "325462.7671791037339845299999999999",
+        "token0": "agEUR",
+        "token0Id": "0x12f31b73d812c6bb0d735a218c086d44d5fe5f89",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "agEUR_USDT"
+    },
+    {
+        "id": "0x309785431c8d550bb3bc00fdc3b211c13567b57d",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "322429.779063515674021804",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "HAI",
+        "token1Id": "0xaa9e582e5751d703f85912903bacaddfed26484c",
+        "pair": "USDT_HAI"
+    },
+    {
+        "id": "0x495c6b1ccedffe5ef114fdfe3f22a63e5a6a0b47",
+        "feeTier": "500",
+        "totalValueLockedUSD": "320537.7459060832261444573068303838",
+        "token0": "AIVIR",
+        "token0Id": "0x7d8645416bda255007d1afd326e4b030639e4958",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "AIVIR_WBNB"
+    },
+    {
+        "id": "0xe3cbe4dd1bd2f7101f17d586f44bab944091d383",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "309819.6369746588740916829586941722",
+        "token0": "LTC",
+        "token0Id": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "LTC_WBNB"
+    },
+    {
+        "id": "0x85bf2332c9033624b5d6f2607d8f07f22bc86345",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "308469.8070582158467723549062604442",
+        "token0": "AI",
+        "token0Id": "0x2598c30330d5771ae9f983979209486ae26de875",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "AI_WBNB"
+    },
+    {
+        "id": "0x466e7d53e23620a24db23e2b1f8bd10ff52116cd",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "307598.5991952062947358875344496187",
+        "token0": "CSIX",
+        "token0Id": "0x04756126f044634c9a0f0e985e60c88a51acc206",
+        "token1": "Cake",
+        "token1Id": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "pair": "CSIX_Cake"
+    },
+    {
+        "id": "0x6681603843a1615a646bcdd8ea0ea234b1d08897",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "306147.893374948860483213543610217",
+        "token0": "GWGW",
+        "token0Id": "0x9bae1a6bd435cd0deb62e7517ea948b5eb6eb497",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "GWGW_WBNB"
+    },
+    {
+        "id": "0x135fe652d45d57c9f67cf15526be52f470806a82",
+        "feeTier": "100",
+        "totalValueLockedUSD": "304518.6991993790850892028160992981",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "MVG",
+        "token1Id": "0xc45de8ab31140e9ced1575ec53ffffa1e3062576",
+        "pair": "WBNB_MVG"
+    },
+    {
+        "id": "0x11bd737757b86c16646313fdf9e86681dd3f065f",
+        "feeTier": "100",
+        "totalValueLockedUSD": "301016.4675309072283313919999999999",
+        "token0": "BTCMT",
+        "token0Id": "0x410a56541bd912f9b60943fcb344f1e3d6f09567",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "BTCMT_USDT"
+    },
+    {
+        "id": "0x8c4abe59366d61edf25511b6484af6eac4e051ba",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "297882.2224536986723263794578752067",
+        "token0": "BEFE",
+        "token0Id": "0x57185189118c7e786cafd5c71f35b16012fa95ad",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "BEFE_WBNB"
+    },
+    {
+        "id": "0xeb8c528b60774db785bdd1c0916e6aef723786e5",
+        "feeTier": "500",
+        "totalValueLockedUSD": "288450.865972646134362062",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "ADI",
+        "token1Id": "0xc05db54f680527fb105b36ae4b1bbcafdd7b7518",
+        "pair": "USDT_ADI"
+    },
+    {
+        "id": "0x898fe77d1c083dd725004a12df0bc55f6dbdec2f",
+        "feeTier": "500",
+        "totalValueLockedUSD": "287305.1980347522439752257935199954",
+        "token0": "USDV",
+        "token0Id": "0x323665443cef804a3b5206103304bd4872ea4253",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "USDV_WBNB"
+    },
+    {
+        "id": "0x5f8e4079aeb1447ce11626a5d95d18e1e307a4a1",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "286110.804697757848657234",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "TPT",
+        "token1Id": "0xeca41281c24451168a37211f0bc2b8645af45092",
+        "pair": "USDT_TPT"
+    },
+    {
+        "id": "0x8ccb4544b3030dacf3d4d71c658f04e8688e25b1",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "286007.0190389803218349568336266197",
+        "token0": "TWT",
+        "token0Id": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "TWT_WBNB"
+    },
+    {
+        "id": "0x642089a5da2512db761d325a868882ece6e387f5",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "282819.0940944451636601534952475211",
+        "token0": "DZHV",
+        "token0Id": "0x3419875b4d3bca7f3fdda2db7a476a79fd31b4fe",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "DZHV_WBNB"
+    },
+    {
+        "id": "0xd5defa9dcc3e1b508e9e9dc7efe604a4883410ef",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "282417.1417738237705081840076175277",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "INJ",
+        "token1Id": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+        "pair": "ETH_INJ"
+    },
+    {
+        "id": "0xaacc80e7b08f68f330c51089d4250dbc4fb94c75",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "279757.1225772287548664416883625494",
+        "token0": "NABOX",
+        "token0Id": "0x755f34709e369d37c6fa52808ae84a32007d1155",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "NABOX_WBNB"
+    },
+    {
+        "id": "0x640ba9794739291826f282fe4bf5136591bc4b53",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "277783.682207816190752986",
+        "token0": "KTC",
+        "token0Id": "0x545356d4d69d8cd1213ee7e339867574738751ca",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "KTC_USDT"
+    },
+    {
+        "id": "0xcfe783e16c9a8c74f2be9bceb2339769439061bf",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "267836.8052304207927798040000000001",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "ALPACA",
+        "token1Id": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+        "pair": "USDT_ALPACA"
+    },
+    {
+        "id": "0xb3bdb16e45fa2ff65f18d212f11968082f801514",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "267334.298150698376523818",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "wSAC",
+        "token1Id": "0x605a1c214172fa504309b2af2600fe5307567b3d",
+        "pair": "USDT_wSAC"
+    },
+    {
+        "id": "0x3d0d8259e04f7de45adb763b75699784299e591e",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "266704.8315630772699870708846149917",
+        "token0": "OVR",
+        "token0Id": "0x7e35d0e9180bf3a1fc47b0d110be7a21a10b41fe",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "OVR_WBNB"
+    },
+    {
+        "id": "0xf01633faed3ec69e8fcae43c4646a84194f4da44",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "264776.6738374252976291023952793287",
+        "token0": "FAYA",
+        "token0Id": "0x04e3e226bedfd57252198443561b57c0a6456e9b",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "FAYA_WBNB"
+    },
+    {
+        "id": "0x9f5a0ad81fe7fd5dfb84ee7a0cfb83967359bd90",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "262407.282748968913114676",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "SOL",
+        "token1Id": "0x570a5d26f7765ecb712c0924e4de545b89fd43df",
+        "pair": "USDT_SOL"
+    },
+    {
+        "id": "0xee013defbebf7d7c836a3234edc239b5c8b4a4f1",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "259515.117609625457543932",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "TRVL",
+        "token1Id": "0x6a8fd46f88dbd7bdc2d536c604f811c63052ce0f",
+        "pair": "USDT_TRVL"
+    },
+    {
+        "id": "0x06ac8ee32bcdce6bf2ea82d9bfb932a84d45bfcb",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "255056.3346171384813609337947265006",
+        "token0": "INSP",
+        "token0Id": "0x8d279274789ccec8af94a430a5996eaace9609a9",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "INSP_WBNB"
+    },
+    {
+        "id": "0xa7c1e8b098a2fab23d268b8766ec78b43ed3e496",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "251854.4958309548264982296199089506",
+        "token0": "ELON",
+        "token0Id": "0x7bd6fabd64813c48545c9c0e312a0099d9be2540",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ELON_WBNB"
+    },
+    {
+        "id": "0xd6604ff48a2f03069d92f1c9e3f08a0e235a7a29",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "249174.8499538237160355890598414176",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "FUC",
+        "token1Id": "0xf77dcb1d378ff8b83a1948f7982cb6a9802d1037",
+        "pair": "WBNB_FUC"
+    },
+    {
+        "id": "0x6b65aa253308167892448c59325299c511f138f8",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "248572.8746629343314279843723357307",
+        "token0": "FPS",
+        "token0Id": "0x351da1e7500aba1d168b9435dce73415718d212f",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "FPS_WBNB"
+    },
+    {
+        "id": "0x627fcfa6247ed6c8ce21831e7924e606c880190c",
+        "feeTier": "100",
+        "totalValueLockedUSD": "248121.6967776425274166389057386396",
+        "token0": "wDZOO",
+        "token0Id": "0x56d06a78ef8e95d6043341f24759e2834be6f97b",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "wDZOO_WBNB"
+    },
+    {
+        "id": "0x42a69a118570bec5015c23e4fc5f52bf994a6051",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "246112.890604809211276208",
+        "token0": "DATA",
+        "token0Id": "0x0864c156b3c5f69824564dec60c629ae6401bf2a",
+        "token1": "USDC",
+        "token1Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "pair": "DATA_USDC"
+    },
+    {
+        "id": "0xb6019a53d6763c95f678748eb45547d93c7d858b",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "239701.5912352475002455259999999999",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "COSMIC",
+        "token1Id": "0xbabacc135bbf2ce30f9c0f12665b244d3689a29c",
+        "pair": "USDT_COSMIC"
+    },
+    {
+        "id": "0x2cbfa271cce515fed6e49b406df4a77ec952a952",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "239585.1690290592170182067733160546",
+        "token0": "FET",
+        "token0Id": "0x031b41e504677879370e9dbcf937283a8691fa7f",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "FET_WBNB"
+    },
+    {
+        "id": "0x12e79eb21dcc5852f9c6ac1736d977312925da33",
+        "feeTier": "500",
+        "totalValueLockedUSD": "235439.450130620655093126",
+        "token0": "HAY",
+        "token0Id": "0x0782b6d8c4551b9760e74c0545a9bcd90bdc41e5",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "HAY_USDT"
+    },
+    {
+        "id": "0x589a5062e47202bb994cd354913733a14b54e8dc",
+        "feeTier": "100",
+        "totalValueLockedUSD": "233233.949977902455796114",
+        "token0": "USDV",
+        "token0Id": "0x323665443cef804a3b5206103304bd4872ea4253",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "USDV_USDT"
+    },
+    {
+        "id": "0x0246913ec96765bca457b0a3608872bba37d1d15",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "230460.4441942427877580608669212666",
+        "token0": "NEAR",
+        "token0Id": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "NEAR_WBNB"
+    },
+    {
+        "id": "0x1b28d9ced09ccb6fb8d6e4f5afa1fc4f5fd92c40",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "228806.345484488770493608",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "FINC",
+        "token1Id": "0xa856098dcbc1b2b3a9c96c35c32bc4f71e49aed2",
+        "pair": "USDT_FINC"
+    },
+    {
+        "id": "0xd8cf0de0387a9c16acf53384c89632678d77f311",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "223340.363282242862471595349355862",
+        "token0": "WNCG",
+        "token0Id": "0x52242cbab41e290e9e17ccc50cc437bb60020a9d",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "WNCG_WBNB"
+    },
+    {
+        "id": "0x3f173b7672fdec2b3e8a795a9d21e3c3ba0a9bd2",
+        "feeTier": "500",
+        "totalValueLockedUSD": "222010.4414764822156659435292539645",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "AIMARKET",
+        "token1Id": "0xcb191ac518e7dee0f6e34c6b59ffbef47580e092",
+        "pair": "WBNB_AIMARKET"
+    },
+    {
+        "id": "0x08dc101cf49561cdabc031f63d9f82085e0c9201",
+        "feeTier": "100",
+        "totalValueLockedUSD": "218379.3284274698273796059999999999",
+        "token0": "RITE",
+        "token0Id": "0x0808bf94d57c905f1236212654268ef82e1e594e",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "RITE_USDT"
+    },
+    {
+        "id": "0xe8df1539b380274f1f8205a8f45a7cc266793518",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "214739.6051153790147265715214083467",
+        "token0": "SHIB",
+        "token0Id": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "SHIB_WBNB"
+    },
+    {
+        "id": "0x4e1f9adf96dba6dc09c973228c286568f1315ea8",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "212330.71567259997289681",
+        "token0": "ID",
+        "token0Id": "0x2dff88a56767223a5529ea5960da7a3f5f766406",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "ID_USDT"
+    },
+    {
+        "id": "0x7c11c25cb6a33a7dba6a87d2ab0c6c83d763bae5",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "199283.873280903536872236",
+        "token0": "Shak",
+        "token0Id": "0x76e08e1c693d42551dd6ba7c2a659f74ff5ba261",
+        "token1": "BUSD",
+        "token1Id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "pair": "Shak_BUSD"
+    },
+    {
+        "id": "0xd7a6cf7759169e925ec1851b8d66568906bd5d14",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "194001.342284765122455244",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "WORK",
+        "token1Id": "0x8888888837f84a7a82668e0320ac454f5945d0b9",
+        "pair": "USDT_WORK"
+    },
+    {
+        "id": "0xa585bf3f293dc86ef78324a3bb992ae888254299",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "189961.5168762594533214300457715918",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "SOL",
+        "token1Id": "0x570a5d26f7765ecb712c0924e4de545b89fd43df",
+        "pair": "ETH_SOL"
+    },
+    {
+        "id": "0xb323f5df0b737a8c19d30b30f5ca6423e88ddf8e",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "189474.1381061058886494770440612783",
+        "token0": "KATA",
+        "token0Id": "0x6d6ba21e4c4b29ca7bfa1c344ba1e35b8dae7205",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "KATA_WBNB"
+    },
+    {
+        "id": "0x63ca58e7c6bf06b06cbbec2a83bf6aa8f8f9f77b",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "188442.1556991648360935157684054151",
+        "token0": "Cake",
+        "token0Id": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "token1": "ZBC",
+        "token1Id": "0x37a56cdcd83dce2868f721de58cb3830c44c6303",
+        "pair": "Cake_ZBC"
+    },
+    {
+        "id": "0x2baaf64f128cfa6baebec6585d3a1e4155437752",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "186374.767767316552612416",
+        "token0": "LMWR",
+        "token0Id": "0x307bc76e3d59ed73886a9cf9360a9286f6281ba7",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "LMWR_USDT"
+    },
+    {
+        "id": "0x5d315b213f2ee0d8d9eff2b4ac8fe5a08f76fb3b",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "186242.8191668094801116055170258607",
+        "token0": "STX",
+        "token0Id": "0x0104f019c8889bdabc62ae6c7b84f6f2ed351133",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "STX_WBNB"
+    },
+    {
+        "id": "0x1d8b1ed9b3da5d510fd3723e0dd02476e0d7e781",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "184624.9972827675424208283079662086",
+        "token0": "AVAX",
+        "token0Id": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "AVAX_WBNB"
+    },
+    {
+        "id": "0xa1f5c8db1e8d06ee5bf6f3155abfe9e31e44fa31",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "184529.483706705931425744",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "VPAD",
+        "token1Id": "0xf574ba6bde97cc09784e616ebaed432b4e896b49",
+        "pair": "USDT_VPAD"
+    },
+    {
+        "id": "0x9b876d740f75efc07aa4aacd5f4d938cab7b5d0c",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "183093.408807311105980268",
+        "token0": "HGPT",
+        "token0Id": "0x529c79f6918665ebe250f32eeeaa1d410a0798c6",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "HGPT_USDT"
+    },
+    {
+        "id": "0x19609ac88fd9de637e078391ab158c4c51566138",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "181600.53992454799927416129911521",
+        "token0": "IRIS",
+        "token0Id": "0x05c50a62b0b87be1ffb1cf3b77d9edba834ef6f7",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "IRIS_WBNB"
+    },
+    {
+        "id": "0xf232161f1b47025b6726f82b984a15169928416f",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "180965.950189037908671826611805721",
+        "token0": "LQDX",
+        "token0Id": "0x872952d3c1caf944852c5adda65633f1ef218a26",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "LQDX_WBNB"
+    },
+    {
+        "id": "0x22536030b9ce783b6ddfb9a39ac7f439f568e5e6",
+        "feeTier": "100",
+        "totalValueLockedUSD": "179766.699673482263184462",
+        "token0": "USDC",
+        "token0Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "token1": "BUSD",
+        "token1Id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "pair": "USDC_BUSD"
+    },
+    {
+        "id": "0x97d034836797f2d003f396b9f79b384eb2a8c13e",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "171203.14943938653297563",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "VENT",
+        "token1Id": "0x872d068c25511be88c1f5990c53eeffcdf46c9b4",
+        "pair": "USDT_VENT"
+    },
+    {
+        "id": "0x01bac48d8309555843fdbb11aa647fe2e292522e",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "169884.889507609742763386",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "PZP",
+        "token1Id": "0x6ad9e9c098a45b2b41b519119c31c3dcb02accb2",
+        "pair": "USDT_PZP"
+    },
+    {
+        "id": "0xe0ed9d69700ce5aaaab55fbec0b2a1879b182b94",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "168074.249722649345011906",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "GMPD",
+        "token1Id": "0x9720ca160bbd4e7f3dd4bb3f8bd4227ca0342e63",
+        "pair": "USDT_GMPD"
+    },
+    {
+        "id": "0x7b717b996a8159b43ac62c8bd2825a98f22edbb8",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "164545.3190260928667661122851059374",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "BETH",
+        "token1Id": "0x250632378e573c6be1ac2f97fcdf00515d0aa91b",
+        "pair": "ETH_BETH"
+    },
+    {
+        "id": "0x33dcd5381c0fd234867d5d7a49a19c009f82af4e",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "163687.983769684409499030610710125",
+        "token0": "ATOM",
+        "token0Id": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ATOM_WBNB"
+    },
+    {
+        "id": "0xa30feccfa3d2cc5aba50a31c0c8b310af0272d08",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "163047.73460918552417102",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "CMA",
+        "token1Id": "0xdcf0929aa20077c7ff96da0cd91ab5183c29abdd",
+        "pair": "USDT_CMA"
+    },
+    {
+        "id": "0xf05bcb4e3f6a015c4d961c413f7b72efdbb31eab",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "162679.0260902384634652505942156593",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "BIBI",
+        "token1Id": "0xfe8bf5b8f5e4eb5f9bc2be16303f7dab8cf56aa8",
+        "pair": "WBNB_BIBI"
+    },
+    {
+        "id": "0xad4022c9554587b20b5077326e204aec00be24a8",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "162405.27628205757952073",
+        "token0": "EPIK",
+        "token0Id": "0x368ce786ea190f32439074e8d22e12ecb718b44c",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "EPIK_USDT"
+    },
+    {
+        "id": "0x0eb6cdc069e060147d65f4521b620b2742a54809",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "162390.465818512885645922",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "BFF",
+        "token1Id": "0xab7398365fb3273ad80b0a57f69ccb03411e34bb",
+        "pair": "USDT_BFF"
+    },
+    {
+        "id": "0x6c3dcf10600c951d5aa343503ae7159ca5b3902f",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "161640.18329683138670876",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "MC",
+        "token1Id": "0x59c49b54d4425c7ff1e49f40958a14d48cc87c26",
+        "pair": "USDT_MC"
+    },
+    {
+        "id": "0xdca693422fac1e15341c3cede40a1798ee7af4b3",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "160660.95839091779364119",
+        "token0": "DARK",
+        "token0Id": "0x12fc07081fab7de60987cad8e8dc407b606fb2f8",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "DARK_USDT"
+    },
+    {
+        "id": "0x24b7a3a71b5ee68d47c14b5004dac66649b84643",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "159849.9990876586725835388663262337",
+        "token0": "ALU",
+        "token0Id": "0x8263cd1601fe73c066bf49cc09841f35348e3be0",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ALU_WBNB"
+    },
+    {
+        "id": "0x20a4587277ceb04372f9a734c1acf89eb8b08427",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "158205.3324081801635442136415488362",
+        "token0": "BEAM",
+        "token0Id": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "BEAM_WBNB"
+    },
+    {
+        "id": "0x9b6d825e16df17b5ea416319e1ac0b85ecd9be19",
+        "feeTier": "500",
+        "totalValueLockedUSD": "156845.898720025015799188",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "PVC",
+        "token1Id": "0x75ca521892de7f2ecfb070cab545c250d0ceb7e3",
+        "pair": "USDT_PVC"
+    },
+    {
+        "id": "0x2f74ad2c64be7dc07c9f51e9d338ecb7c1ee0b18",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "154781.142151519363742312",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "Bonk",
+        "token1Id": "0xa697e272a73744b343528c3bc4702f2565b2f422",
+        "pair": "USDT_Bonk"
+    },
+    {
+        "id": "0x52e7f10327d019fb182500294160221d74014472",
+        "feeTier": "500",
+        "totalValueLockedUSD": "154379.4845859902778200637070816051",
+        "token0": "ZHAN",
+        "token0Id": "0x539d02ffc3e4c3d3e2bad47e070775aa03330e3b",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ZHAN_WBNB"
+    },
+    {
+        "id": "0x8c78b7cf85ae6c9781aa5a1e269662b299a43998",
+        "feeTier": "500",
+        "totalValueLockedUSD": "153911.736840054668046472",
+        "token0": "DESU",
+        "token0Id": "0x32f1518baace69e85b9e5ff844ebd617c52573ac",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "DESU_USDT"
+    },
+    {
+        "id": "0xbe356455913e190ec1c33d883d55b1841f051016",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "153692.681419385159065138",
+        "token0": "UNC",
+        "token0Id": "0x35da89a339de2c78f8fb1c5e1a9a9c6539e2fa8a",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "UNC_USDT"
+    },
+    {
+        "id": "0xe793dee50fbab0e88dee592d97c1d88876005923",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "152984.7043682399594664363878793305",
+        "token0": "EPIK",
+        "token0Id": "0x368ce786ea190f32439074e8d22e12ecb718b44c",
+        "token1": "BTCB",
+        "token1Id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "pair": "EPIK_BTCB"
+    },
+    {
+        "id": "0x846bd025527c8427809e11d0b0a9ce50f149d5d5",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "151917.4655701403123732679161410538",
+        "token0": "CYBER",
+        "token0Id": "0x14778860e937f509e651192a90589de711fb88a9",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "CYBER_WBNB"
+    },
+    {
+        "id": "0x4cc8ba620d3fb7150d160caa970dc45bc600c9a7",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "148480.055703399990037408",
+        "token0": "USDC",
+        "token0Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "token1": "MTRG",
+        "token1Id": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f",
+        "pair": "USDC_MTRG"
+    },
+    {
+        "id": "0x0e46906f5c3add43b31d059273e67e443c2fd74b",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "146480.198423459681148844",
+        "token0": "SELF",
+        "token0Id": "0x50c34995a273075a80c23625f69f40d56ce414de",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "SELF_USDT"
+    },
+    {
+        "id": "0xb2e3dbb8c350f87f69c91b1f11825cd3401a1138",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "145860.056498390885277888",
+        "token0": "FTC",
+        "token0Id": "0x04f46cdfe8dd348e41902eef1aff19ace1661f4c",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "FTC_USDT"
+    },
+    {
+        "id": "0x5b46fc8392cded6a91a79d85efabfd51c7956ca0",
+        "feeTier": "100",
+        "totalValueLockedUSD": "144418.8699158367797013325046307958",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "rBNB",
+        "token1Id": "0xf027e525d491ef6ffcc478555fbb3cfabb3406a6",
+        "pair": "WBNB_rBNB"
+    },
+    {
+        "id": "0x84f6831a1e85491424cd828ff7f058b0d29ddd76",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "141281.71289264867200634",
+        "token0": "BCOIN",
+        "token0Id": "0x00e1656e45f18ec6747f5a8496fd39b50b38396d",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "BCOIN_USDT"
+    },
+    {
+        "id": "0xd775f8d7fb9fb1d2ce19b981e7255cffe2cca76f",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "138456.3755960766030226994517931664",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "CARBON",
+        "token1Id": "0xefb5df8eb84055026018030e71bc2cdfa2f138b9",
+        "pair": "WBNB_CARBON"
+    },
+    {
+        "id": "0xb49332eb00086fd4adcff960a7bc570bbccaa252",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "137135.377784853796169494",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "SWFTC",
+        "token1Id": "0xe64e30276c2f826febd3784958d6da7b55dfbad3",
+        "pair": "USDT_SWFTC"
+    },
+    {
+        "id": "0x532931fe9160070fb1f07c0a9952c953a89612fd",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "135810.9234050026114360053670259921",
+        "token0": "MAP",
+        "token0Id": "0x8105ece4ce08b6b6449539a5db23e23b973dfa8f",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "MAP_WBNB"
+    },
+    {
+        "id": "0x05001e922870a0614da5d71ce79d7fb79f0ac0a7",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "134930.3010163917901768549463615924",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "HAKA",
+        "token1Id": "0xd85ad783cc94bd04196a13dc042a3054a9b52210",
+        "pair": "WBNB_HAKA"
+    },
+    {
+        "id": "0xdf95771a236b6a87b1325bf674737fe498aaefde",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "134891.86871895113212268",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "PMT",
+        "token1Id": "0x68ae2f202799be2008c89e2100257e66f77da1f3",
+        "pair": "USDT_PMT"
+    },
+    {
+        "id": "0x41e5fa15297bc964088776bf0e8110c6a44ff2e5",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "133840.1788780743116510136161844067",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "FTM",
+        "token1Id": "0xad29abb318791d579433d831ed122afeaf29dcfe",
+        "pair": "ETH_FTM"
+    },
+    {
+        "id": "0xa322b156b138deaa6b5df1f76154ee019f33db25",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "132473.5404324194804555471432756013",
+        "token0": "XRP",
+        "token0Id": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+        "token1": "ETH",
+        "token1Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "pair": "XRP_ETH"
+    },
+    {
+        "id": "0xbbc0af92d39496bfeadbe511acb5b0f64f49df2c",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "131977.8857812179926415496694140722",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "GEN111",
+        "token1Id": "0xd585a6213f7c582857306e1cc5f9d267b8106d7f",
+        "pair": "WBNB_GEN111"
+    },
+    {
+        "id": "0xe650577f6da3fce62df945861e25e0197412cdfc",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "127150.5255847762244981249208315557",
+        "token0": "$FORWARD",
+        "token0Id": "0x886640149e31e1430fa74cc39725431eb82ddfb2",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "$FORWARD_WBNB"
+    },
+    {
+        "id": "0x9c7a87327f658ebb643bd180835de2e2829f88f8",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "125814.0667805165783496814167901665",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "IPX",
+        "token1Id": "0xcdb96d3aef363a036c6cf6c9b5736d79f0e404e2",
+        "pair": "WBNB_IPX"
+    },
+    {
+        "id": "0xff35c9b32f7465c4c353e76fb742a2e3e1176a44",
+        "feeTier": "500",
+        "totalValueLockedUSD": "125580.4045601962415779293617638639",
+        "token0": "PIRATE",
+        "token0Id": "0xafcc12e4040615e7afe9fb4330eb3d9120acac05",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "PIRATE_WBNB"
+    },
+    {
+        "id": "0xa9ae342b34f3ab5ff41c6790cc483b3529dfefbb",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "123361.9379594057409353614728093134",
+        "token0": "Cake",
+        "token0Id": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "token1": "mCake",
+        "token1Id": "0x581fa684d0ec11ccb46b1d92f1f24c8a3f95c0ca",
+        "pair": "Cake_mCake"
+    },
+    {
+        "id": "0xd0e925a1c22e30a363283d79ebf5a901cf928b95",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "121269.1860373260795707472892109827",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "ICE",
+        "token1Id": "0xc335df7c25b72eec661d5aa32a7c2b7b2a1d1874",
+        "pair": "WBNB_ICE"
+    },
+    {
+        "id": "0xaa251535d7cc793e131ce7e0dbf4f8ca5edf1ad0",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "120082.589862188789529778",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "OPUL",
+        "token1Id": "0x686318000d982bc8dcc1cdcf8ffd22322f0960ed",
+        "pair": "USDT_OPUL"
+    },
+    {
+        "id": "0xd33506885a11a3aafba6e2338613e3748ee5587d",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "118591.208241882997931338",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "HHW",
+        "token1Id": "0x5af7e16aaf80ff4122f6964b09be5f4b5507b415",
+        "pair": "USDT_HHW"
+    },
+    {
+        "id": "0xe98fc882596c307ff26f8c570532ed0e93238e9a",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "117429.9564271508329706004939620788",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "AAVE",
+        "token1Id": "0xfb6115445bff7b52feb98650c87f44907e58f802",
+        "pair": "WBNB_AAVE"
+    },
+    {
+        "id": "0x638be2968705bc2daeeeec9507130f204e7c155f",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "116572.97360591109359596",
+        "token0": "GRAPE",
+        "token0Id": "0x555296de6a86e72752e5c5dc091fe49713aa145c",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "GRAPE_USDT"
+    },
+    {
+        "id": "0xce44ebe42abc496eacbd6582b6e14f3937116b23",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "116285.818082095325833296",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "IRL",
+        "token1Id": "0xa80221d067603e30060f75e2458aa361f8ee5402",
+        "pair": "USDT_IRL"
+    },
+    {
+        "id": "0xbe43e64cd61e0b9207a6bee93e2149317a604326",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "114701.6002312049031966420319185527",
+        "token0": "HAY",
+        "token0Id": "0x0782b6d8c4551b9760e74c0545a9bcd90bdc41e5",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "HAY_WBNB"
+    },
+    {
+        "id": "0x4179e36957afd303261bd88c92d560d7291ac7ed",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "112850.5996528744174479854442239233",
+        "token0": "NEAR",
+        "token0Id": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
+        "token1": "ETH",
+        "token1Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "pair": "NEAR_ETH"
+    },
+    {
+        "id": "0x4b30fff989b65d7531c65f930c18778d85335c6c",
+        "feeTier": "100",
+        "totalValueLockedUSD": "111746.6945934793437606134077115021",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "LQR",
+        "token1Id": "0xc4a1e7106d08b7ff947254b6d75cf2b877d55daf",
+        "pair": "WBNB_LQR"
+    },
+    {
+        "id": "0x845725721a79df9a9a87e4abd83c48d29a70e00d",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "111032.332388875145382306",
+        "token0": "RGEN",
+        "token0Id": "0x25382fb31e4b22e0ea09cb0761863df5ad97ed72",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "RGEN_USDT"
+    },
+    {
+        "id": "0x921cc8339822e193dad588796281d515a5cb7567",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "110953.80356026615690377",
+        "token0": "Honor",
+        "token0Id": "0x4cfac133438b25c22434ed56106eaf8503ec65ea",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "Honor_USDT"
+    },
+    {
+        "id": "0x6999b88c26552bd1180bf46750db2cd53a3e137b",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "107657.2827237166402431912771252717",
+        "token0": "BEE",
+        "token0Id": "0x735c522c20305d868f2c14654b878950f820dc50",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "BEE_WBNB"
+    },
+    {
+        "id": "0x936b39a8c429b6d7feefdb9f3f967bb74cc32909",
+        "feeTier": "500",
+        "totalValueLockedUSD": "107600.594905305914417952",
+        "token0": "NMT",
+        "token0Id": "0x03aa6298f1370642642415edc0db8b957783e8d6",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "NMT_USDT"
+    },
+    {
+        "id": "0xcc09d4441f848eed3c1f707f0fa552703c995c71",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "106878.4327834734251303818556806397",
+        "token0": "SISC",
+        "token0Id": "0x0a23454f4c5d57a020372ab7138d80b43da95c3e",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "SISC_WBNB"
+    },
+    {
+        "id": "0xc1feb3e2e411f82bc5892328c17b36b45a1a64c1",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "106385.881379951259008052",
+        "token0": "AMC",
+        "token0Id": "0x299142a6370e1912156e53fbd4f25d7ba49ddcc5",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "AMC_USDT"
+    },
+    {
+        "id": "0x0a0d5d01696801113a9c2e2d80b837fe2bbc5106",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "106233.9021441724590933121511128176",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "ICE",
+        "token1Id": "0xdc7da87115d4464e8aac99920a533d401bf72a50",
+        "pair": "WBNB_ICE"
+    },
+    {
+        "id": "0x1de2a3dfebd6f56247b4b403fdb47fada086aa90",
+        "feeTier": "100",
+        "totalValueLockedUSD": "103228.014549798020692876",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "LQR",
+        "token1Id": "0xc4a1e7106d08b7ff947254b6d75cf2b877d55daf",
+        "pair": "USDT_LQR"
+    },
+    {
+        "id": "0xcb4ee784e2520b611a6d3e3a0cfa3ba4075efb44",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "102841.2900087625534999945275708353",
+        "token0": "WRUB",
+        "token0Id": "0x72f74fb5382a7a49b5c6e8437a04d65bf2ff5736",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "WRUB_WBNB"
+    },
+    {
+        "id": "0x6a89006953e6e4daa870b6dc1bb2a0a95fdf9c07",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "102504.86648663955779357",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "GC",
+        "token1Id": "0x55e48aa00c55b6ed4453d90c247833f604bac1cb",
+        "pair": "USDT_GC"
+    },
+    {
+        "id": "0x61837a8a78f42dc6cfed457c4ec1114f5e2d90f4",
+        "feeTier": "500",
+        "totalValueLockedUSD": "102297.7158006791627527826884214774",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "ankrETH",
+        "token1Id": "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3",
+        "pair": "ETH_ankrETH"
+    },
+    {
+        "id": "0x0f74d4bf3c707b191e60be614a0e7e318f52e7ae",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "99688.60770145283096663549827548468",
+        "token0": "ACRIA",
+        "token0Id": "0x44f5909e97e1cbf5fbbdf0fc92fd83cde5d5c58a",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ACRIA_WBNB"
+    },
+    {
+        "id": "0xa601258fa027c454244f53362de61ff3580c23df",
+        "feeTier": "500",
+        "totalValueLockedUSD": "96646.60732459529201654289907704018",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "BOBA",
+        "token1Id": "0xe0db679377a0f5ae2bae485de475c9e1d8a4607d",
+        "pair": "WBNB_BOBA"
+    },
+    {
+        "id": "0x3ab7dc57dde2de98c7b7999786cd7245c9a20a24",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "96634.61023372917747642080721052094",
+        "token0": "WMT",
+        "token0Id": "0x637c2173f6e678ac3c9b43b6665c760dc6021c13",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "WMT_WBNB"
+    },
+    {
+        "id": "0xb7eb3b0e47b77220c86c6d3497cb645503bbb437",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "96055.83523713212493122129372733012",
+        "token0": "AGII",
+        "token0Id": "0x328fd053c4bb968875afd9ad0af36fcf4a0bdda9",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "AGII_WBNB"
+    },
+    {
+        "id": "0xc7d4d8b8d88e70d0b91aa74a231af8fbdf8d2cb4",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "95972.72342836941263754121658578798",
+        "token0": "FTM",
+        "token0Id": "0xad29abb318791d579433d831ed122afeaf29dcfe",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "FTM_WBNB"
+    },
+    {
+        "id": "0xece4eceb6b7f61cd82fb090e8ec6f6ffd02f37f7",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "95885.78900225032366023869495285594",
+        "token0": "CDT",
+        "token0Id": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+        "token1": "BTCB",
+        "token1Id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "pair": "CDT_BTCB"
+    },
+    {
+        "id": "0xad48dae803cbc2d13c72c0de9fdd51c7d84cdb08",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "95241.87580319883146908000000000003",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "TCP",
+        "token1Id": "0xa9d2c420247ae4fe7b694be75d5db10b20fe3ea8",
+        "pair": "USDT_TCP"
+    },
+    {
+        "id": "0x0bb8e0b7968b3aab923eebb1e8dbfd4bc4102c10",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "95173.57880675456631079000000000001",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "SNS",
+        "token1Id": "0xf3a587d1ac967b40db59223434baf0c6e11588ea",
+        "pair": "USDT_SNS"
+    },
+    {
+        "id": "0x6d1bc19eea986976a9cd94213e2c44ab7a26b6b1",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "94686.53560385402576562599999999997",
+        "token0": "GUILD",
+        "token0Id": "0x0565805ca3a4105faee51983b0bd8ffb5ce1455c",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "GUILD_USDT"
+    },
+    {
+        "id": "0x6a13d1a9bdb8514ae6a61d254f304c104571d5f2",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "93772.40401287931726733400000000004",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "RWT",
+        "token1Id": "0xec1f55b5be7ee8c24ee26b6cc931ce4d7fd5955c",
+        "pair": "USDT_RWT"
+    },
+    {
+        "id": "0x66e9acba7c3a82c8ee02faf3e325dd55d6581a8c",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "93670.71693189402966920630527117274",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "ETH_USDT"
+    },
+    {
+        "id": "0x29e13e65e8e2160dbd391ba3cee55e7dde2a386c",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "92125.37606915809736729106219739759",
+        "token0": "SFUND",
+        "token0Id": "0x477bc8d23c634c154061869478bce96be6045d12",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "SFUND_WBNB"
+    },
+    {
+        "id": "0x01fa500c8201ddaf8cdcad672aa5c20e76342ec1",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "91202.34494341342326105399999999997",
+        "token0": "LBL",
+        "token0Id": "0x77edfae59a7948d66e9911a30cc787d2172343d4",
+        "token1": "BUSD",
+        "token1Id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "pair": "LBL_BUSD"
+    },
+    {
+        "id": "0xaab0dfeccfb8e01fac044015c2d5e601e376080d",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "88493.04081232856197741200000000003",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "GTF",
+        "token1Id": "0xf2250a2708a6c2cfa74c4a50754a61465484ce4f",
+        "pair": "USDT_GTF"
+    },
+    {
+        "id": "0x73d69d55893d6c97dca44af2aa85b688c0242d7f",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "88002.55210134838146262600000000001",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "PLAY",
+        "token1Id": "0xd069599e718f963bd84502b49ba8f8657faf5b3a",
+        "pair": "USDT_PLAY"
+    },
+    {
+        "id": "0x14cfad9a4fcb5fb4f702f5d0e90dcc633e1ded9a",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "87610.6819434290449895460177426858",
+        "token0": "BCH",
+        "token0Id": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "BCH_WBNB"
+    },
+    {
+        "id": "0xf7ba85da65ecdfcdb2714cb8540fde06d04054f5",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "87578.61135998044340287800000000001",
+        "token0": "MUA",
+        "token0Id": "0x460a49db303f620ad72fc070b6ffe90ce993713d",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "MUA_USDT"
+    },
+    {
+        "id": "0xf0cff8fac93fc1bd93407545963e7dcdba9df5e6",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "87114.52416471782342409000000000001",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "AVA",
+        "token1Id": "0xd9483ea7214fcfd89b4fb8f513b544920e315a52",
+        "pair": "USDT_AVA"
+    },
+    {
+        "id": "0xdaca9622e924c289935f54c11248d004229dc120",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "86992.81457930348084200400000000004",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "MAR3",
+        "token1Id": "0x9d44c04ef10cbd4ba321e51a54f1354d0799feef",
+        "pair": "USDT_MAR3"
+    },
+    {
+        "id": "0x7583ced27df4c5e74bf1ca4c30e87460bc41d441",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "86402.11750881615263897000000000003",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "CHER",
+        "token1Id": "0x8f36cc333f55b09bb71091409a3d7ade399e3b1c",
+        "pair": "USDT_CHER"
+    },
+    {
+        "id": "0x700f9a7778f107e72ccd7e88d4530ab2cc393c76",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "85402.03866403037824815199999999997",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "SEED",
+        "token1Id": "0x6730f7a6bbb7b9c8e60843948f7feb4b6a17b7f7",
+        "pair": "USDT_SEED"
+    },
+    {
+        "id": "0x47eec63a190fbcdc11328341c96543435d8559bc",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "84638.74290638193584717000000000002",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "AVA",
+        "token1Id": "0xd9483ea7214fcfd89b4fb8f513b544920e315a52",
+        "pair": "USDT_AVA"
+    },
+    {
+        "id": "0xdcccc7d0b02c837d1b8d8a8d5e2683387bc2b910",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "83357.01725747357543745999999999998",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "WOM",
+        "token1Id": "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1",
+        "pair": "USDT_WOM"
+    },
+    {
+        "id": "0xfdfcde34d2038ebede62e95c65b1492c28c990c9",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "82981.33376697566597698370266996036",
+        "token0": "HAY",
+        "token0Id": "0x0782b6d8c4551b9760e74c0545a9bcd90bdc41e5",
+        "token1": "ETH",
+        "token1Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "pair": "HAY_ETH"
+    },
+    {
+        "id": "0xef2cf65ff6dce6f2b15f18999673676d5a07f63f",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "82979.33274276357667118406578867576",
+        "token0": "EQB",
+        "token0Id": "0x374ca32fd7934c5d43240e1e73fa9b2283468609",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "EQB_WBNB"
+    },
+    {
+        "id": "0x0ad087743db69c1563179468301944fb01a01d91",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "82870.12503757813251597432735896175",
+        "token0": "BITF",
+        "token0Id": "0x6a9eda5ee2be6ab52fcedb3825ea4143f61e9427",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "BITF_WBNB"
+    },
+    {
+        "id": "0x2bab77dac701b86e7ee9ba4f26aeb3bd5de25020",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "81318.51302090197350292",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "AI",
+        "token1Id": "0xbda011d7f8ec00f66c1923b049b94c67d148d8b2",
+        "pair": "USDT_AI"
+    },
+    {
+        "id": "0xfef4566a4a770e1b945a206b44c416d9eb3b3ceb",
+        "feeTier": "100",
+        "totalValueLockedUSD": "80843.956260298395055864",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "BTH",
+        "token1Id": "0x57bc18f6177cdaffb34ace048745bc913a1b1b54",
+        "pair": "USDT_BTH"
+    },
+    {
+        "id": "0xff63994066755f3ea1c37ba3337e417f7ff2cb15",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "80088.71435159678118807711561217416",
+        "token0": "mtvt",
+        "token0Id": "0xb92c5e0135a510a4a3a8803f143d2cb085bbaf73",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "mtvt_WBNB"
+    },
+    {
+        "id": "0x1be0a017cda061501b9dd460ebfd16f0971eea8e",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "78707.69089801066098899427911232399",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "ordi",
+        "token1Id": "0xe2ae1a99bbd2efab0a5c38f2146b7ace61abc5ce",
+        "pair": "WBNB_ordi"
+    },
+    {
+        "id": "0xdc6f3fbc1d2f0abe058eb867bbdd367c2d8c2d2a",
+        "feeTier": "100",
+        "totalValueLockedUSD": "78416.615341204393066694",
+        "token0": "SIZ",
+        "token0Id": "0x36d8d5de808aa7b0b7f543c8b3e25a1fdb09f912",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "SIZ_USDT"
+    },
+    {
+        "id": "0xe7cb78efe9930e250baf9f64a6a17a79e12b3c5d",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "77376.70239287592436136032781684347",
+        "token0": "INJ",
+        "token0Id": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "INJ_WBNB"
+    },
+    {
+        "id": "0x35346986b68b336d370f126b4f69ac6712a986b5",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "76129.20714060951746202599999999999",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "DEFI",
+        "token1Id": "0x6d106c0b8d2f47c5465bdbd58d1be253762cbbc1",
+        "pair": "USDT_DEFI"
+    },
+    {
+        "id": "0x8bc495dbeac561d5a7700e9403518d74123bd65a",
+        "feeTier": "500",
+        "totalValueLockedUSD": "75921.85341886630531375999999999998",
+        "token0": "DAI",
+        "token0Id": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "DAI_USDT"
+    },
+    {
+        "id": "0xa0f7c418188c7e544d4b412742fcbc61951349d0",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "75568.77090789575364819114402139199",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "WETH",
+        "token1Id": "0x4db5a66e937a9f4473fa95b1caf1d1e1d62e29ea",
+        "pair": "ETH_WETH"
+    },
+    {
+        "id": "0x19ceabe800596ec01164c3680a66e8216d47d517",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "74998.94385777137733694528347083534",
+        "token0": "BTCB",
+        "token0Id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "token1": "USDC",
+        "token1Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "pair": "BTCB_USDC"
+    },
+    {
+        "id": "0x2e55583856a4eff49f1260331e4ed78edbf849f7",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "74624.40741197668072004410940294108",
+        "token0": "PMON",
+        "token0Id": "0x1796ae0b0fa4862485106a0de9b654efe301d0b2",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "PMON_WBNB"
+    },
+    {
+        "id": "0xe6f1af7afdd396adf8ef19291bd07c5d9b20fecc",
+        "feeTier": "500",
+        "totalValueLockedUSD": "74423.10172506386019017799999999998",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "AUSD",
+        "token1Id": "0xf328ed974e586b6eea7997a87ea2ab1de149b186",
+        "pair": "USDT_AUSD"
+    },
+    {
+        "id": "0xe043558b77e2b4c262d7d6e579b005ceb7f4591c",
+        "feeTier": "100",
+        "totalValueLockedUSD": "74021.14294160284420911999999999999",
+        "token0": "DAI",
+        "token0Id": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "DAI_USDT"
+    },
+    {
+        "id": "0x0004222c2075e9a1291e41f1ca4c8d32141db501",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "73624.57334311036472231696013655793",
+        "token0": "MBOX",
+        "token0Id": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "MBOX_WBNB"
+    },
+    {
+        "id": "0x95a13229c552f47ac395d47c03a1c49f9e1bc2ca",
+        "feeTier": "500",
+        "totalValueLockedUSD": "73601.53609549001036002725174142311",
+        "token0": "PVC",
+        "token0Id": "0x75ca521892de7f2ecfb070cab545c250d0ceb7e3",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "PVC_WBNB"
+    },
+    {
+        "id": "0xa589248905a5454f379750facfb0b25c329ec287",
+        "feeTier": "500",
+        "totalValueLockedUSD": "73414.35640027161588892155419012505",
+        "token0": "BTC.b",
+        "token0Id": "0x2297aebd383787a160dd0d9f71508148769342e3",
+        "token1": "BTCB",
+        "token1Id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "pair": "BTC.b_BTCB"
+    },
+    {
+        "id": "0xd38f03a296991b957617dc704f86b2da9f239afc",
+        "feeTier": "100",
+        "totalValueLockedUSD": "72916.77465651289635069506759788329",
+        "token0": "XPE",
+        "token0Id": "0x88691f292b76bf4d2caa5678a54515fae77c33af",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "XPE_WBNB"
+    },
+    {
+        "id": "0xce6cab75608aa20ce748da7b340ce9294617ce00",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "72384.69846585943078539799999999998",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "IPP",
+        "token1Id": "0xade2321efcc54b1d0676a29e331579da7b82aa76",
+        "pair": "USDT_IPP"
+    },
+    {
+        "id": "0xf95d86abc7ac48477ec06dcca8fd8a68bfb19a0b",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "71894.46480261522274376999999999999",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "MIX",
+        "token1Id": "0xcf1b55d79e824da0ae0652f96c66fe33263d743f",
+        "pair": "USDT_MIX"
+    },
+    {
+        "id": "0x352950bf85e7dcfd2d512ef53e19a29721f21eec",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "71223.73965191463566181605211245678",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "AI",
+        "token1Id": "0xbda011d7f8ec00f66c1923b049b94c67d148d8b2",
+        "pair": "WBNB_AI"
+    },
+    {
+        "id": "0x6ee3ee9c3395bbd136b6076a70cb6cff241c0e24",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "69149.29155153247279469784285540227",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "BTCB",
+        "token1Id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "pair": "USDT_BTCB"
+    },
+    {
+        "id": "0x7edc24acfe188b0886f53c0922bdb8f1c801341e",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "69037.43249271432689136485189347478",
+        "token0": "SOL",
+        "token0Id": "0x570a5d26f7765ecb712c0924e4de545b89fd43df",
+        "token1": "BTCB",
+        "token1Id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "pair": "SOL_BTCB"
+    },
+    {
+        "id": "0x3cb75d72401d2dba4349c696824f1397277d6a11",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "68669.26434050740800664742483014208",
+        "token0": "USH",
+        "token0Id": "0x91d6d6af7635b7b23a8ced9508117965180e2362",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "USH_WBNB"
+    },
+    {
+        "id": "0xcfb06e40ff0e4007c77ce75f292d388beedf60f9",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "68587.52509197713216156000000000002",
+        "token0": "BTG",
+        "token0Id": "0x0bd74a50f0309bc11158c4af11c20e5fda5e43da",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "BTG_USDT"
+    },
+    {
+        "id": "0xa052cb1589f43277a0866d0818a05be3efbad27a",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "68350.17821204212131476599999999999",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "COP",
+        "token1Id": "0x8789337a176e6e7223ff115f1cd85c993d42c25c",
+        "pair": "USDT_COP"
+    },
+    {
+        "id": "0x42ead00e69394ffbb2985c1ea4fbb32aa07f6243",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "67933.42187396239189075811087836602",
+        "token0": "XTZ",
+        "token0Id": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "XTZ_WBNB"
+    },
+    {
+        "id": "0x94019544fd89721620947b871882b04e9bc34bb6",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "67513.02466786050476330156549895526",
+        "token0": "BETS",
+        "token0Id": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "BETS_WBNB"
+    },
+    {
+        "id": "0xc8d3cef6f91cdc3d737f96109991d463614b90d5",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "67480.81028361411816620999999999998",
+        "token0": "NMT",
+        "token0Id": "0x03aa6298f1370642642415edc0db8b957783e8d6",
+        "token1": "USDC",
+        "token1Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "pair": "NMT_USDC"
+    },
+    {
+        "id": "0xbba8f85c3ceddf73db4de17d31608d640eaea416",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "67415.572151100699764334",
+        "token0": "PEPE",
+        "token0Id": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "PEPE_USDT"
+    },
+    {
+        "id": "0xe08078c1daacef415b2653e7256a70002f41eeb6",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "66771.64701031479948334200000000002",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "HUAHUA",
+        "token1Id": "0x9fd470124903957f299a1c90feda9043a4619cc6",
+        "pair": "USDT_HUAHUA"
+    },
+    {
+        "id": "0x81a9b5f18179ce2bf8f001b8a634db80771f1824",
+        "feeTier": "500",
+        "totalValueLockedUSD": "66447.93821335382574413609358269035",
+        "token0": "USDC",
+        "token0Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "USDC_WBNB"
+    },
+    {
+        "id": "0x9f8ca02962de84a7094c381d66efd46e01c2b8f0",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "65760.35661430856173836750597437869",
+        "token0": "bXEN",
+        "token0Id": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "bXEN_WBNB"
+    },
+    {
+        "id": "0x4d3fefb4b83ee779d665ed77812fa31c0dc62863",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "65162.01239114193418366799999999999",
+        "token0": "SHRAP",
+        "token0Id": "0x31e4efe290973ebe91b3a875a7994f650942d28f",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "SHRAP_USDT"
+    },
+    {
+        "id": "0xcf0ba206d688fc9ae8a268f8b9077f4307600895",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "64931.10026989135591025973802647676",
+        "token0": "sats",
+        "token0Id": "0x143d7a700a533b4baf6d693449b278a8a2f5927d",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "sats_WBNB"
+    },
+    {
+        "id": "0x41e3149918f8efee8ef6f47cf45d4ce580f837cb",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "64834.51688481831672549443561691488",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "WDRIP",
+        "token1Id": "0xf30224eb7104aca47235beb3362e331ece70616a",
+        "pair": "WBNB_WDRIP"
+    },
+    {
+        "id": "0x3b649abb1050ed0294f14de88c47110e72aa24d5",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "64406.37165492489751858870125114305",
+        "token0": "FET",
+        "token0Id": "0x031b41e504677879370e9dbcf937283a8691fa7f",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "FET_WBNB"
+    },
+    {
+        "id": "0x0ee19d61f457e5dc6dcbb86c9c20ae5cbf9c22cf",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "63691.85063597118854888793576329607",
+        "token0": "Wildfire",
+        "token0Id": "0x0323cae0318c1686b7c69272ef5d006146096812",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "Wildfire_WBNB"
+    },
+    {
+        "id": "0x18ca6bdbaa051324df002be8440f3eef2d1b1866",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "63213.70888619105513758599999999999",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "XEP",
+        "token1Id": "0xb897d0a0f68800f8be7d69ffdd1c24b69f57bf3e",
+        "pair": "USDT_XEP"
+    },
+    {
+        "id": "0xa8305a7cf6ea5852de277a693a45761b474298ed",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "63127.8151704035712163742000348982",
+        "token0": "AVAX",
+        "token0Id": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
+        "token1": "ETH",
+        "token1Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "pair": "AVAX_ETH"
+    },
+    {
+        "id": "0x19f4569a884c8b3bbbac74077f1a9200dadce441",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "62761.96628290236660707399999999999",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "ADSC",
+        "token1Id": "0x8a7b5fe6f43db70affc51f3881ff79354640f3e7",
+        "pair": "USDT_ADSC"
+    },
+    {
+        "id": "0x1fd99b298574633eb89871611c666a339d372831",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "62708.18108337967404206183954117954",
+        "token0": "wAMO",
+        "token0Id": "0x1cc0801f922b3c5dec5efb04d69b3c4ca9f00c54",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "wAMO_WBNB"
+    },
+    {
+        "id": "0xd777cb8471d06835846c80246a42580483e1a0c5",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "62377.34527268502754738757546916761",
+        "token0": "DOGE",
+        "token0Id": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "DOGE_WBNB"
+    },
+    {
+        "id": "0xed7abc033fc39ba671f82d010829465468937303",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "61927.38063992257770743269361448872",
+        "token0": "ID",
+        "token0Id": "0x2dff88a56767223a5529ea5960da7a3f5f766406",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ID_WBNB"
+    },
+    {
+        "id": "0xbb04cbaee15e6ecbd529765d09d393d6945739ea",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "61809.39645852233311071819498461233",
+        "token0": "Shit",
+        "token0Id": "0x567351e802f52ca60b2ac9d61d5b538e9582e78d",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "Shit_WBNB"
+    },
+    {
+        "id": "0xf66a930ed3b004ba16ee11b3a9b142eaf2259b0d",
+        "feeTier": "100",
+        "totalValueLockedUSD": "61478.46908397239669283",
+        "token0": "USDC",
+        "token0Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "token1": "FDUSD",
+        "token1Id": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+        "pair": "USDC_FDUSD"
+    },
+    {
+        "id": "0xd02aaf62d5a7d9cabc4e8f13210b175bf305d0c3",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "61250.8336156417969988504098605261",
+        "token0": "FET",
+        "token0Id": "0x031b41e504677879370e9dbcf937283a8691fa7f",
+        "token1": "ETH",
+        "token1Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "pair": "FET_ETH"
+    },
+    {
+        "id": "0xa9e6daa4d53a45e9b17bebfb1fff75f47b05dccf",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "60829.76115297920952314799999999999",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "VPP",
+        "token1Id": "0xe069af87450fb51fc0d0e044617f1c134163e591",
+        "pair": "USDT_VPP"
+    },
+    {
+        "id": "0xd7277570b1c4c35824ef6043e7b18dd78d8849ae",
+        "feeTier": "100",
+        "totalValueLockedUSD": "60160.51519928182406996600000000002",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "BRZ",
+        "token1Id": "0x71be881e9c5d4465b3fff61e89c6f3651e69b5bb",
+        "pair": "USDT_BRZ"
+    },
+    {
+        "id": "0x0074fc89aac21f5deb884e737b513cd0586e655e",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "59972.82230229560769505052045433192",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "ACE",
+        "token1Id": "0xc27a719105a987b4c34116223cae8bd8f4b5def4",
+        "pair": "WBNB_ACE"
+    },
+    {
+        "id": "0x55f0af2cfc605f549480201fa5c9418f9812e9eb",
+        "feeTier": "500",
+        "totalValueLockedUSD": "59679.179479452170120464",
+        "token0": "EL",
+        "token0Id": "0x5357e9c3488c7680e710b46b744e706e484b4ad7",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "EL_USDT"
+    },
+    {
+        "id": "0x95b605d7a48472984c748e05140ee08273f3bbb3",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "59470.92647658852018041442641439064",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "BETH",
+        "token1Id": "0x250632378e573c6be1ac2f97fcdf00515d0aa91b",
+        "pair": "ETH_BETH"
+    },
+    {
+        "id": "0x5b4ea0ca3113adb9d4194453468e3edffb92eab5",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "58753.79419454466317059400000000001",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "NVT",
+        "token1Id": "0xf0e406c49c63abf358030a299c0e00118c4c6ba5",
+        "pair": "USDT_NVT"
+    },
+    {
+        "id": "0xf6479f379f7ddc43108a643d4b51944c99da091c",
+        "feeTier": "500",
+        "totalValueLockedUSD": "58504.332149390977237318",
+        "token0": "BRANK",
+        "token0Id": "0x39ae9a782b1f9c60d0f1839ef4c2d0174c5edae4",
+        "token1": "USDC",
+        "token1Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "pair": "BRANK_USDC"
+    },
+    {
+        "id": "0x4237b3ab29d3adb5d974fdfc3eb6f6e89e6dfb17",
+        "feeTier": "100",
+        "totalValueLockedUSD": "58219.15326141021962828999999999998",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "XPE",
+        "token1Id": "0x88691f292b76bf4d2caa5678a54515fae77c33af",
+        "pair": "USDT_XPE"
+    },
+    {
+        "id": "0x49482ed816137917406323d91d35b69e61f2c659",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "58045.92708244861327887000000000001",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "DWB",
+        "token1Id": "0x7f9ac38cd691bfc0a37040be3dd4ec424f8ee377",
+        "pair": "USDT_DWB"
+    },
+    {
+        "id": "0x2d272d0ae2fdd6ded99cc5a5bcaa03eaeaa8e51d",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "57262.58933630282654882354524291566",
+        "token0": "xZOOMER",
+        "token0Id": "0xb962150760f9a3bb00e3e9cf48297ee20ada4a33",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "xZOOMER_WBNB"
+    },
+    {
+        "id": "0x1d70a40b05f4401061a6364e5912afb0b10e3244",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "56192.90156738278162499989542947917",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "SIS",
+        "token1Id": "0xf98b660adf2ed7d9d9d9daacc2fb0cace4f21835",
+        "pair": "WBNB_SIS"
+    },
+    {
+        "id": "0xda262f1ebf043d8612a6a7422e9baea6d79550f0",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "56036.75435755994717118400000000002",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "HHEE",
+        "token1Id": "0x5a9a8ac5e18c63f7591f63f15a5d89921853c8e9",
+        "pair": "USDT_HHEE"
+    },
+    {
+        "id": "0x73c9f927bd4fa992a6185ae649813035bc11aad8",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "55408.60565288601698543997838856981",
+        "token0": "CGT",
+        "token0Id": "0x3d04edc843e74935c09f54cc4b2fe1870e347ac9",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "CGT_WBNB"
+    },
+    {
+        "id": "0x410d3425b4bf2e96147828f5818234a6365af62a",
+        "feeTier": "500",
+        "totalValueLockedUSD": "54620.47883348456562825199999999998",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "HM",
+        "token1Id": "0xb2d9683364da90ab057215d55192520200888888",
+        "pair": "USDT_HM"
+    },
+    {
+        "id": "0xd97e03d02ce147cad1f470e436948436b6d12e1f",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "54601.36073004092166496443016711724",
+        "token0": "ETC",
+        "token0Id": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ETC_WBNB"
+    },
+    {
+        "id": "0xcfbd29b64f65dd63799f411133dcf0e78df01729",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "53223.67644189200054024411707446131",
+        "token0": "MTW",
+        "token0Id": "0x8fb7a3d213c3a2b605386cd3617fe0eaab7f3b1c",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "MTW_WBNB"
+    },
+    {
+        "id": "0x3fc1c4c7d35b942d86f1c956784d2dd6ece42333",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "53186.81862424100027782876733304665",
+        "token0": "1INCH",
+        "token0Id": "0x111111111117dc0aa78b770fa6a738034120c302",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "1INCH_WBNB"
+    },
+    {
+        "id": "0xcdf1eb410e5f1d534d3a501aa226e4cf1b531eed",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "52755.51216829068532831199999999999",
+        "token0": "MNT",
+        "token0Id": "0x3e81aa8d6813ec9d7e6ddb4e523fb1601a0e86f3",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "MNT_USDT"
+    },
+    {
+        "id": "0x88240a2ca0af5dd3b181975b9985274274cb3685",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "52653.86866352705857194928308122216",
+        "token0": "PNP",
+        "token0Id": "0x5012c90f14d190607662ca8344120812aaa2639d",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "PNP_WBNB"
+    },
+    {
+        "id": "0x20a9d76a3a7160c2053ace4495d9dbf191f61fc7",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "52598.06296039736550068435567815673",
+        "token0": "BSKT",
+        "token0Id": "0xaf42a5df3c1c1427da8fc0326bd7b030a9367e78",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "BSKT_WBNB"
+    },
+    {
+        "id": "0x02c4f145f8ea538713a8ade835d91e211278e28a",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "52274.198757882688550418",
+        "token0": "BTL",
+        "token0Id": "0x51e7b598c9155b9dccb04eb42519f6eec9c841e9",
+        "token1": "USDC",
+        "token1Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "pair": "BTL_USDC"
+    },
+    {
+        "id": "0x7298f4bcf9fbc580b2aabcf5ad92fa2e3e4aac44",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "51451.357663371848451952",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "SZK",
+        "token1Id": "0xe05001a6fb6b1dcf2c0fa18f26abf691a5b9cca4",
+        "pair": "USDT_SZK"
+    },
+    {
+        "id": "0x11a22c6c808827efcb1951bb64b34c1ef2243427",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "51386.951040359952406494",
+        "token0": "SPAY",
+        "token0Id": "0x13a637026df26f846d55acc52775377717345c06",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "SPAY_USDT"
+    },
+    {
+        "id": "0x7e9fbfdb6f43de97692064726f3f036811884bd7",
+        "feeTier": "500",
+        "totalValueLockedUSD": "51273.1421787298358838459410104481",
+        "token0": "HTD",
+        "token0Id": "0x5e2689412fae5c29bd575fbe1d5c1cd1e0622a8f",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "HTD_WBNB"
+    },
+    {
+        "id": "0xbdb116c4b008732a532e79c813cd351aa432c258",
+        "feeTier": "500",
+        "totalValueLockedUSD": "50594.04247181976214769300240333824",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "NUDE",
+        "token1Id": "0xe1987271a2838e7caded3625fe8b1be714084caf",
+        "pair": "WBNB_NUDE"
+    },
+    {
+        "id": "0x8936b5e314528af43aa23368e7dd3915252c1313",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "50357.25785545491068573000000000002",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "O2",
+        "token1Id": "0x7b2f503a1d65442ad517ba7a971146d611b0b13f",
+        "pair": "USDT_O2"
+    },
+    {
+        "id": "0x043681828303cdf9398f0768bf1da99feebf7ee8",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "50268.19462723143699303383372828045",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "RIO",
+        "token1Id": "0x8c49a510756224e887b3d99d00d959f2d86dda1c",
+        "pair": "ETH_RIO"
+    },
+    {
+        "id": "0x2b67f47e9453c70dd5ba11618af4f2ede21e2bc9",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "50017.593560765403547804",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "MM",
+        "token1Id": "0xbf05279f9bf1ce69bbfed670813b7e431142afa4",
+        "pair": "USDT_MM"
+    },
+    {
+        "id": "0xb008159819a16c21ecedffe0171709496e06940e",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "49974.76864575443091561600000000002",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "ARBI",
+        "token1Id": "0xa7bd657c5838472ddf85ff0797a2e6fce8fd4833",
+        "pair": "USDT_ARBI"
+    },
+    {
+        "id": "0xdc64c196894a9b1099ae3fe4a11423fb33402c2d",
+        "feeTier": "100",
+        "totalValueLockedUSD": "49918.66611771515440824999999999999",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "NEXT",
+        "token1Id": "0xa6c59de838f1eeb82d86f5af0750f5f656439999",
+        "pair": "USDT_NEXT"
+    },
+    {
+        "id": "0x0a9e5072b2c06dc2d703743f640313e47916f185",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "49136.13879109455784640327571754878",
+        "token0": "XRP",
+        "token0Id": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+        "token1": "ETH",
+        "token1Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "pair": "XRP_ETH"
+    },
+    {
+        "id": "0x9b5f52114d23bfe5302a82d5c4f59113dd070f26",
+        "feeTier": "100",
+        "totalValueLockedUSD": "48855.22841735472467786180699565214",
+        "token0": "HEHE",
+        "token0Id": "0x488cf9905cd9f5dea7212b4571c8b1052631ab8d",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "HEHE_WBNB"
+    },
+    {
+        "id": "0xccbd082b90084e7317187512d8d2af83ef95508c",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "48317.31831238417964767000000000001",
+        "token0": "CSIX",
+        "token0Id": "0x04756126f044634c9a0f0e985e60c88a51acc206",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "CSIX_USDT"
+    },
+    {
+        "id": "0x92fb8463ac6bc0f700b20cd67cdee7c753947f66",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "47367.38262213858933001199999999998",
+        "token0": "KAS",
+        "token0Id": "0x51e72dd1f2628295cc2ef931cb64fdbdc3a0c599",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "KAS_USDT"
+    },
+    {
+        "id": "0xbb87f33d9f43ec3fe75502958408262e7043b2e8",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "47346.243282036431050143707409033",
+        "token0": "ARV",
+        "token0Id": "0x6679eb24f59dfe111864aec72b443d1da666b360",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ARV_WBNB"
+    },
+    {
+        "id": "0x1905a544414ff059b1305cbc52c4869011140f34",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "47222.6430442487236331672881582095",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "PAX",
+        "token1Id": "0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094",
+        "pair": "ETH_PAX"
+    },
+    {
+        "id": "0x019fba5e590c5643f0fa256d8f48148a12542bea",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "47015.38984697746851942799999999999",
+        "token0": "SPAY",
+        "token0Id": "0x13a637026df26f846d55acc52775377717345c06",
+        "token1": "BUSD",
+        "token1Id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "pair": "SPAY_BUSD"
+    },
+    {
+        "id": "0xa27275e16a2632c7a7d8a8ef12ab509c097e40a3",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "46937.59997405209431943400000000002",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "RETA",
+        "token1Id": "0x829555f1197171d35ec51c095e27b47a246ac6a6",
+        "pair": "USDT_RETA"
+    },
+    {
+        "id": "0x321d27af9068b683fb08a9eef6232ab918e88891",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "46723.89760831920637025847901570358",
+        "token0": "PHB",
+        "token0Id": "0x0409633a72d846fc5bbe2f98d88564d35987904d",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "PHB_WBNB"
+    },
+    {
+        "id": "0x5d68bfc76e9dc614654ecdfde112e2b9588d5096",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "46295.29188033287374793634850023872",
+        "token0": "SPAY",
+        "token0Id": "0x13a637026df26f846d55acc52775377717345c06",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "SPAY_WBNB"
+    },
+    {
+        "id": "0x4acd6c8b3bfa890546e088e8abc87f035155362d",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "45904.10305204202358339799999999999",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "TS",
+        "token1Id": "0x9879406c2ef6578ceb59009d64151ef3f225830b",
+        "pair": "USDT_TS"
+    },
+    {
+        "id": "0x3b7761632240c4bbec6dee27e10d491de9aa669b",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "45601.05477900606730074799999999999",
+        "token0": "GMT",
+        "token0Id": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1",
+        "token1": "USDC",
+        "token1Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "pair": "GMT_USDC"
+    },
+    {
+        "id": "0x43c6e4011883ee04d989b0da88070078549058bd",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "45021.75406172537044206600000000001",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "DBX",
+        "token1Id": "0xc37d341ea63bd93219a0e36c8213d9e8e4888888",
+        "pair": "USDT_DBX"
+    },
+    {
+        "id": "0xe356050beb40e7bcbddab645fad5dcf90d0a7107",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "44949.95655855847503271808659320736",
+        "token0": "CAT",
+        "token0Id": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "CAT_WBNB"
+    },
+    {
+        "id": "0xe0d4f397935a6346c8e2cd2aba4ab5ff26532352",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "43815.9395172342425775251227789718",
+        "token0": "OSAK",
+        "token0Id": "0x11cd72f7a4b699c67f225ca8abb20bc9f8db90c7",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "OSAK_WBNB"
+    },
+    {
+        "id": "0x86aef5b9ddae6bca94ed976bd058992d16fec202",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "43457.75120384671608057399999999999",
+        "token0": "TAP",
+        "token0Id": "0x35bedbf9291b22218a0da863170dcc9329ef2563",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "TAP_USDT"
+    },
+    {
+        "id": "0x481961e2f19a4b7dfb0477778adc683cc083c5ef",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "43359.92649618501975744140518605651",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "Waifu",
+        "token1Id": "0xd0aa796e2160ed260c668e90ac5f237b4ebd4b0d",
+        "pair": "WBNB_Waifu"
+    },
+    {
+        "id": "0x9f1e039839c903de56ed8c2415acd5a83bd3099c",
+        "feeTier": "100",
+        "totalValueLockedUSD": "42917.89372630651450863000000000002",
+        "token0": "WBT",
+        "token0Id": "0x12a16d6b160809f6be748c9dc29f934b960d7258",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "WBT_USDT"
+    },
+    {
+        "id": "0x8f4d9e19edab2de4b8063945001d2ee2a7fb5464",
+        "feeTier": "100",
+        "totalValueLockedUSD": "42804.79553332096723859445571504342",
+        "token0": "OLAND",
+        "token0Id": "0xb0461d7e8212d311b842a58e9989ede849ac6816",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "OLAND_WBNB"
+    },
+    {
+        "id": "0x701396d9b97857dd20ad1cce048d58186573880c",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "42198.61026656611905585547521359684",
+        "token0": "OX",
+        "token0Id": "0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "OX_WBNB"
+    },
+    {
+        "id": "0x38edf010c71e0e429ab4d94ee98cff695c8c9074",
+        "feeTier": "100",
+        "totalValueLockedUSD": "41982.723535454553736034",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "PANDA",
+        "token1Id": "0x5715a750f155c958bb5bafe1336826a4dd6a83cb",
+        "pair": "USDT_PANDA"
+    },
+    {
+        "id": "0x469efaaadb06b5f4618ed1907aba380411f9a200",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "41884.97064577642287364145787266403",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "BUSD",
+        "token1Id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "pair": "WBNB_BUSD"
+    },
+    {
+        "id": "0xf1027029eb99d191cc6c13e0b6d1d77cbd930ce6",
+        "feeTier": "100",
+        "totalValueLockedUSD": "41862.29936302936227798600000000001",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "FYU",
+        "token1Id": "0x89b54dd9ba2b1269d5648bbaebc36710053e9713",
+        "pair": "USDT_FYU"
+    },
+    {
+        "id": "0x7806d2365af3fb1871ec7ac94af0755dc2539ea4",
+        "feeTier": "500",
+        "totalValueLockedUSD": "41842.98786187893881610399999999999",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "PIRATE",
+        "token1Id": "0xafcc12e4040615e7afe9fb4330eb3d9120acac05",
+        "pair": "USDT_PIRATE"
+    },
+    {
+        "id": "0x925340887cba5c24ab96873b6b74ebeed268a12c",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "41326.460876737905284392",
+        "token0": "EGO",
+        "token0Id": "0x128f397237b6489de867c4d4e749689e284d58a4",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "EGO_USDT"
+    },
+    {
+        "id": "0xa96f927c2906c5084fb4c3e1dc4f4ea40a2e7493",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "41222.46858791702957615999999999999",
+        "token0": "MGT",
+        "token0Id": "0x2019941099e3e2c536c8a91c5e57a33ab0f9d9db",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "MGT_USDT"
+    },
+    {
+        "id": "0xdbfdbd9702f078b84e17ef6a4be5d8f8d37d3584",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "40737.39259482723390281100014934823",
+        "token0": "KAS",
+        "token0Id": "0x51e72dd1f2628295cc2ef931cb64fdbdc3a0c599",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "KAS_WBNB"
+    },
+    {
+        "id": "0x97be9fbd5ea977173c38fba10f869a660850295c",
+        "feeTier": "100",
+        "totalValueLockedUSD": "40489.69042064676380152000000000001",
+        "token0": "CHANCER",
+        "token0Id": "0x4dde9004c6460041a87f972168cdd7ab8b4c6441",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "CHANCER_USDT"
+    },
+    {
+        "id": "0x13f0d0df1f347e7246ba16866d2562bb2b337d0c",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "40349.036297665500095262",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "WMX",
+        "token1Id": "0xa75d9ca2a0a1d547409d82e1b06618ec284a2ced",
+        "pair": "USDT_WMX"
+    },
+    {
+        "id": "0x77e4ba48091f23a8a54b3e2c72f17be58cc2d137",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "40249.565053646739947384",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "LVL",
+        "token1Id": "0xb64e280e9d1b5dbec4accedb2257a87b400db149",
+        "pair": "USDT_LVL"
+    },
+    {
+        "id": "0xb55a0b97b7d9ebe4208b08ab00fec0c419cc32a3",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "40221.5342023410551691191277480713",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "RDNT",
+        "token1Id": "0xf7de7e8a6bd59ed41a4b5fe50278b3b7f31384df",
+        "pair": "WBNB_RDNT"
+    },
+    {
+        "id": "0x57dbe41582591e8a420cc80fb669f953d137a571",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "40127.20114234118355444268049938605",
+        "token0": "MUBI",
+        "token0Id": "0x38e382f74dfb84608f3c1f10187f6bef5951de93",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "MUBI_WBNB"
+    },
+    {
+        "id": "0x799502584983f747ca376a4c1a70ce73be6fb6e9",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "39875.967517308955212258",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "4DMAPS",
+        "token1Id": "0xd99903242745e8e3ecf1e2a7d4f6052282f891ee",
+        "pair": "USDT_4DMAPS"
+    },
+    {
+        "id": "0xade1fac77bd942f65518c81fc8c5887436549d89",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "39348.09014386351318040011764158973",
+        "token0": "BIGROO",
+        "token0Id": "0x428d0a41a442f7a69e7f6bdc0cc96866af348c43",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "BIGROO_WBNB"
+    },
+    {
+        "id": "0x293c665b9b98cd51d6454c72529fe17a1cf1f504",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "39117.019054696629520202",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "HIGH",
+        "token1Id": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
+        "pair": "USDT_HIGH"
+    },
+    {
+        "id": "0xd850b66a198c98cf8210c7fa932c355023db52e0",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "39073.558708315085584564",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "RUG",
+        "token1Id": "0xea4821632b139b7f08e37533d8152d50976618c6",
+        "pair": "USDT_RUG"
+    },
+    {
+        "id": "0xc36afd75ecd10f70e165af3536b805346dc740f0",
+        "feeTier": "100",
+        "totalValueLockedUSD": "38233.78207599595308266934683267147",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "SRG",
+        "token1Id": "0xc0ff232d16b415fe7a0d3842d31280778a9400ef",
+        "pair": "WBNB_SRG"
+    },
+    {
+        "id": "0x12d6757e9c6b4a906ac8ff6560a1ea8a9b8fe38e",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "37683.10199338610153880730851478751",
+        "token0": "MDT",
+        "token0Id": "0x668db7aa38eac6b40c9d13dbe61361dc4c4611d1",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "MDT_WBNB"
+    },
+    {
+        "id": "0xa78debaeffbbd1d075560b03b0a264879e1c2370",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "37225.32277580881137925486693367376",
+        "token0": "FUSE",
+        "token0Id": "0x5857c96dae9cf8511b08cb07f85753c472d36ea3",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "FUSE_WBNB"
+    },
+    {
+        "id": "0xb777c2e0402abcca21fffa8ac38160af486b4055",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "37015.241349064194600064",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "DPA",
+        "token1Id": "0xa7324831da3deb902f0ff78a018fb8c2af333d1f",
+        "pair": "USDT_DPA"
+    },
+    {
+        "id": "0xf8104aaa719d31ea25dc494576593c10a8f929e6",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "36756.5544201291515376314141805045",
+        "token0": "CDT",
+        "token0Id": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "CDT_WBNB"
+    },
+    {
+        "id": "0xf46f4447436bce2492f3ca59de097ee98139c7de",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "36554.51845411969688392583113691655",
+        "token0": "OSAK",
+        "token0Id": "0x11cd72f7a4b699c67f225ca8abb20bc9f8db90c7",
+        "token1": "ETH",
+        "token1Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "pair": "OSAK_ETH"
+    },
+    {
+        "id": "0x069acabcdb399c5f40aefd0f2f91d859e4a86d29",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "36458.925856226733014884",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "PAID",
+        "token1Id": "0xad86d0e9764ba90ddd68747d64bffbd79879a238",
+        "pair": "USDT_PAID"
+    },
+    {
+        "id": "0x1a1703bf5f1da9db0f62d17e8c54e84fd732d695",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "36341.87145357552370195747067228725",
+        "token0": "Bonk",
+        "token0Id": "0xa697e272a73744b343528c3bc4702f2565b2f422",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "Bonk_WBNB"
+    },
+    {
+        "id": "0x80ed571502af4dfdc1e59a9d9128f9c9baaee63d",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "36332.491813758438830478",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "VNDC",
+        "token1Id": "0xdde5b33a56f3f1c22e5a6bd8429e6ad508bff24e",
+        "pair": "USDT_VNDC"
+    },
+    {
+        "id": "0x4f55423de1049d3cbfdc72f8a40f8a6f554f92aa",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "36315.023377391669648312",
+        "token0": "RACA",
+        "token0Id": "0x12bb890508c125661e03b09ec06e404bc9289040",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "RACA_USDT"
+    },
+    {
+        "id": "0x8cd524bc3d98a872a78659b4871a65bf963cef69",
+        "feeTier": "100",
+        "totalValueLockedUSD": "35840.414581521851511596",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "FADO",
+        "token1Id": "0x827d24bb2aad813fe6f49b798f44cce4c48bd478",
+        "pair": "USDT_FADO"
+    },
+    {
+        "id": "0x6dba30870bc46bd6d2289e1827cc415f6fa23e1a",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "35547.885640480625967562",
+        "token0": "HFT",
+        "token0Id": "0x44ec807ce2f4a6f2737a92e985f318d035883e47",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "HFT_USDT"
+    },
+    {
+        "id": "0xe8cd56d758e60c48d501568ebb41307c42445b9a",
+        "feeTier": "500",
+        "totalValueLockedUSD": "35287.4487173965103449818623569424",
+        "token0": "DILDO",
+        "token0Id": "0x467eaebadb8e24f7b4747b70a58de8b84da494e4",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "DILDO_WBNB"
+    },
+    {
+        "id": "0x1fc80b1bb466536873ef48115df60247576f6386",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "35191.600498488117058502",
+        "token0": "PEPE",
+        "token0Id": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "PEPE_USDT"
+    },
+    {
+        "id": "0x320ae2f4e2144a11ac4ab2286eb207be55879423",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "35091.601093962318456538",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "CO",
+        "token1Id": "0x936b6659ad0c1b244ba8efe639092acae30dc8d6",
+        "pair": "USDT_CO"
+    },
+    {
+        "id": "0x718ef2c26890eeb58287afe2c3c25e830004c579",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "34707.714832794827900092",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "TONCOIN",
+        "token1Id": "0x76a797a59ba2c17726896976b7b3747bfd1d220f",
+        "pair": "USDT_TONCOIN"
+    },
+    {
+        "id": "0xf53453d8ccfbd2b92fab0363e40e17fd04b522ac",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "34360.268720880362467528",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "CLICKER",
+        "token1Id": "0x61efd49636b558ec4895a9f5d8273ab51dacea35",
+        "pair": "USDT_CLICKER"
+    },
+    {
+        "id": "0xb2adf2ac951dd6245a853dc6144caf524c1ce34e",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "34004.389252093440772632",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "GULF",
+        "token1Id": "0x7597bdccf10e41bccc374a6a0104cf430c420884",
+        "pair": "USDT_GULF"
+    },
+    {
+        "id": "0x49072b4bd92a1a9da4b83ee8f2886a14218cb68a",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "33733.686164083669619442",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "BIOZ",
+        "token1Id": "0x9e02b86a56b208058e41f442222fffa6ebfbefd2",
+        "pair": "USDT_BIOZ"
+    },
+    {
+        "id": "0xe850d4d4657071328798de55265933e73dd90815",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "33329.55451793414926728019407806028",
+        "token0": "TRIAS",
+        "token0Id": "0xa4838122c683f732289805fc3c207febd55babdd",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "TRIAS_WBNB"
+    },
+    {
+        "id": "0xb470f34ddcbba0b26a683c55bd04d6915e2ffaa9",
+        "feeTier": "100",
+        "totalValueLockedUSD": "33214.738445802140060404",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "wDASH",
+        "token1Id": "0xcbfb0d98151d03ef8bb71fa668f57df5e3fb4673",
+        "pair": "USDT_wDASH"
+    },
+    {
+        "id": "0x3a149a44dd1f48472c78f38500e94b853e23185f",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "33132.42047784421036790499052417012",
+        "token0": "ONE",
+        "token0Id": "0x03ff0ff224f904be3118461335064bb48df47938",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ONE_WBNB"
+    },
+    {
+        "id": "0x3f6b51501b03aec93a39786f7bbf8a528b48c73d",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "32916.23088551296145896668151697219",
+        "token0": "BTT",
+        "token0Id": "0x352cb5e19b12fc216548a2677bd0fce83bae434b",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "BTT_WBNB"
+    },
+    {
+        "id": "0xf2e1eb5b1a421897a1cedb62a297808bc6c960d4",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "32697.13139218280971336993062326772",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "LINK",
+        "token1Id": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+        "pair": "ETH_LINK"
+    },
+    {
+        "id": "0x6f4919d08bdeb1aadfeae4da97ccebfa370008f6",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "32498.54761743139549579059238631073",
+        "token0": "VET",
+        "token0Id": "0x6fdcdfef7c496407ccb0cec90f9c5aaa1cc8d888",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "VET_WBNB"
+    },
+    {
+        "id": "0x68c3117d708d56f75cf6c93e6bc33e05e4534c55",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "32343.701398078440809148",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "BabyGrok",
+        "token1Id": "0x88da9901b3a02fe24e498e1ed683d2310383e295",
+        "pair": "USDT_BabyGrok"
+    },
+    {
+        "id": "0xfceb1071a8f034154a04b51bcb361958a92e0176",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "32134.009238635704607642",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "STK",
+        "token1Id": "0xa35b5c783117e107644056f5d39faa468e9d8d47",
+        "pair": "USDT_STK"
+    },
+    {
+        "id": "0x9a5ee02f87199b1a8e8d6b5b60a2c0edc4be28ee",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "32109.05423475738945665136789170564",
+        "token0": "ETH",
+        "token0Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "token1": "MX",
+        "token1Id": "0x9f882567a62a5560d147d64871776eea72df41d3",
+        "pair": "ETH_MX"
+    },
+    {
+        "id": "0x0f3ada81a32d8a7233fe9b1d04f0a8231adb98f0",
+        "feeTier": "500",
+        "totalValueLockedUSD": "31869.80738115518139063394237828128",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "FDUSD",
+        "token1Id": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+        "pair": "WBNB_FDUSD"
+    },
+    {
+        "id": "0x77b27c351b13dc6a8a16cc1d2e9d5e7f9873702e",
+        "feeTier": "500",
+        "totalValueLockedUSD": "31597.9269701990170713115828992673",
+        "token0": "BNBx",
+        "token0Id": "0x1bdd3cf7f79cfb8edbb955f20ad99211551ba275",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "BNBx_WBNB"
+    },
+    {
+        "id": "0x43003b9f7b40b3f698787296652f0c23aa7e94a2",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "31576.99178140697149554316148122223",
+        "token0": "CCDAO",
+        "token0Id": "0x200f73aba0d6f8919086f64035ef900669ea2de2",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "CCDAO_WBNB"
+    },
+    {
+        "id": "0xa6dc1fa760d154d0967dd4ea684189d05bf59e26",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "31268.318993779459101842",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "HYVE",
+        "token1Id": "0xf6565a97dc832d93dc83b75ee9aa5c7e8ecb0f9d",
+        "pair": "USDT_HYVE"
+    },
+    {
+        "id": "0x1f2b0c3ae3dcbd8fb4621b3249260550e10d2f4c",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "31243.21484971718947917616243374551",
+        "token0": "XTZ",
+        "token0Id": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
+        "token1": "ETH",
+        "token1Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "pair": "XTZ_ETH"
+    },
+    {
+        "id": "0xb11aea096955b3cae70a07de8a63b2191f94d8d4",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "30784.20180421249691387572861188494",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "ROCK",
+        "token1Id": "0xc3387e4285e9f80a7cfdf02b4ac6cdf2476a528a",
+        "pair": "WBNB_ROCK"
+    },
+    {
+        "id": "0x35d3dcd46fed6b81e22f49819305fa3d9db2136b",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "30317.19940621189847895992419031883",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "SOL",
+        "token1Id": "0xfa54ff1a158b5189ebba6ae130ced6bbd3aea76e",
+        "pair": "WBNB_SOL"
+    },
+    {
+        "id": "0x72768f7382143f5822d48ab497a3d44f57b864e7",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "30214.34986066532319240777202146152",
+        "token0": "FMB",
+        "token0Id": "0x6b3c58bfc74a41c1f7e6c0516471fdb8e42868ad",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "FMB_WBNB"
+    },
+    {
+        "id": "0xee5dfe5d597d0c94ec4a652c0514f706facd021c",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "29858.413275500415613606",
+        "token0": "SYN",
+        "token0Id": "0xa4080f1778e69467e905b8d6f72f6e441f9e9484",
+        "token1": "BUSD",
+        "token1Id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "pair": "SYN_BUSD"
+    },
+    {
+        "id": "0x8e4eb4780677c4046aac3b3feb02e8c529e5f830",
+        "feeTier": "500",
+        "totalValueLockedUSD": "29330.03184479786708790847547486784",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "Zedxion",
+        "token1Id": "0xff44967f2e4ebe0b8c5b6812f25e1b9bcec70b34",
+        "pair": "WBNB_Zedxion"
+    },
+    {
+        "id": "0x06e2d4002a693812a6348c91a2beccf4e926ff2f",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "29085.55428200492945732614217018737",
+        "token0": "HAY",
+        "token0Id": "0x0782b6d8c4551b9760e74c0545a9bcd90bdc41e5",
+        "token1": "BTCB",
+        "token1Id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "pair": "HAY_BTCB"
+    },
+    {
+        "id": "0x69b8c774bf2de33bd5ab0c1cd8633f4255d39141",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "28814.55765019365556632005969090294",
+        "token0": "CDT",
+        "token0Id": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+        "token1": "ETH",
+        "token1Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "pair": "CDT_ETH"
+    },
+    {
+        "id": "0x0cd5057ab5b35ccea2a8c2e786c7b2fd340672ae",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "28498.75503573144434556200000000001",
+        "token0": "USDC",
+        "token0Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "token1": "PAID",
+        "token1Id": "0xad86d0e9764ba90ddd68747d64bffbd79879a238",
+        "pair": "USDC_PAID"
+    },
+    {
+        "id": "0xd9f97e7c4030a77e7f773cec1d80342e07f244d7",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "28437.97076278296438346641746502951",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "BGS",
+        "token1Id": "0xf339e8c294046e6e7ef6ad4f6fa9e202b59b556b",
+        "pair": "WBNB_BGS"
+    },
+    {
+        "id": "0xdd82975ab85e745c84e497fd75ba409ec02d4739",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "28382.33213314858987958019355179799",
+        "token0": "PEPE",
+        "token0Id": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "PEPE_WBNB"
+    },
+    {
+        "id": "0x9f6288e1099bd586126adff04561a47186176d73",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "28263.85660752870206631976437052449",
+        "token0": "DEWAE",
+        "token0Id": "0x6c13a45101bd70561daf6186da86d7bdb018754f",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "DEWAE_WBNB"
+    },
+    {
+        "id": "0x89cc4347eac9bdf71f9d783c7a25729e5c579108",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "27120.203469673205047312",
+        "token0": "unshETH",
+        "token0Id": "0x0ae38f7e10a43b5b2fb064b42a2f4514cba909ef",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "unshETH_USDT"
+    },
+    {
+        "id": "0xc7b99f5c5109aaea40a78f4a361e957ed8da0c24",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "26842.91778778867504786812044029519",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "FIRO",
+        "token1Id": "0xd5d0322b6bab6a762c79f8c81a0b674778e13aed",
+        "pair": "WBNB_FIRO"
+    },
+    {
+        "id": "0x1265c61d9e5d10bd149107da225c470f422a997e",
+        "feeTier": "100",
+        "totalValueLockedUSD": "26797.00126056200487921399999999999",
+        "token0": "CDN",
+        "token0Id": "0x3dbd49ad2b79bd563dc85ef5d4ed8f20a9f5c993",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "CDN_USDT"
+    },
+    {
+        "id": "0xb5d01a6e99fdcdb6db8d0a342c35036adeb8fb48",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "26788.70962357367932643169247991469",
+        "token0": "KUJI",
+        "token0Id": "0x073690e6ce25be816e68f32dca3e11067c9fb5cc",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "KUJI_WBNB"
+    },
+    {
+        "id": "0xe5c990fb60efa071ca09ad8173f23044a4f6dcff",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "26760.239352158475542344",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "WRUB",
+        "token1Id": "0x72f74fb5382a7a49b5c6e8437a04d65bf2ff5736",
+        "pair": "USDT_WRUB"
+    },
+    {
+        "id": "0xa3cf2f6e2be350d5db588a0539ff70d8ffade3ab",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "26353.47961008580942369",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "ORON",
+        "token1Id": "0xa8d29a0cc90965acee773f74606ee0b45286a2fe",
+        "pair": "USDT_ORON"
+    },
+    {
+        "id": "0x99fe6154f45fd2c3d403f621735a688cb5de4058",
+        "feeTier": "100",
+        "totalValueLockedUSD": "26192.77626076993595049000000000001",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "IDRT",
+        "token1Id": "0x66207e39bb77e6b99aab56795c7c340c08520d83",
+        "pair": "USDT_IDRT"
+    },
+    {
+        "id": "0x71f5a8f7d448e59b1ede00a19fe59e05d125e742",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "26025.701316004808195706",
+        "token0": "XRP",
+        "token0Id": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "XRP_USDT"
+    },
+    {
+        "id": "0x538f6feeb195c3adcb99a6e82c545c50ab2ddf6d",
+        "feeTier": "500",
+        "totalValueLockedUSD": "26007.244167582112478914",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "WETH",
+        "token1Id": "0x80820a33eeb08e5bda9a49c0fc00d78361e9ffb4",
+        "pair": "USDT_WETH"
+    },
+    {
+        "id": "0x2f6764175a8e309e7d726efa76ab389b18670151",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "25806.73532092658310934348218292949",
+        "token0": "TELL",
+        "token0Id": "0x6ad6c97cbff4691041a7f85e20b184f62ce17510",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "TELL_WBNB"
+    },
+    {
+        "id": "0xe6caa2954dc842cf1e2a9dfce8a2dc89325be6ea",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "25698.24367019417721752323816874027",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "PORTAL",
+        "token1Id": "0xd8805fbf0986240d25395a5733bbbc385157b99c",
+        "pair": "WBNB_PORTAL"
+    },
+    {
+        "id": "0x3db5e175cef262394a97555c66b47f45af8ff5ed",
+        "feeTier": "500",
+        "totalValueLockedUSD": "25487.38407066193216143258938115907",
+        "token0": "CAIR",
+        "token0Id": "0x48a8ba1754fe84e2f9dfa97982e524f18e5b4bd3",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "CAIR_WBNB"
+    },
+    {
+        "id": "0x00caf94936e092d1df403b63507ce8c522b210a3",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "25342.11781494814530968226527154146",
+        "token0": "KDG",
+        "token0Id": "0x87a2d9a9a6b2d61b2a57798f1b4b2ddd19458fb6",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "KDG_WBNB"
+    },
+    {
+        "id": "0xf2b438694e2dd17a24c970435460de58b5785cfd",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "25153.75208984337682034450986670815",
+        "token0": "ZETA",
+        "token0Id": "0x0000028a2eb8346cd5c0267856ab7594b7a55308",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ZETA_WBNB"
+    },
+    {
+        "id": "0xee445e64eec4c860ad528803b957b00d8ed0df16",
+        "feeTier": "500",
+        "totalValueLockedUSD": "25097.53735589867231572220439577509",
+        "token0": "Cake",
+        "token0Id": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "token1": "PIRATE",
+        "token1Id": "0xafcc12e4040615e7afe9fb4330eb3d9120acac05",
+        "pair": "Cake_PIRATE"
+    },
+    {
+        "id": "0x1ea53b17fe4184b34ebfd832ddf5ab21116f20a6",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "24199.999999999990474374",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "XAI",
+        "token1Id": "0x657fabc90b6ecd3340cb1b624c243a55cd0cc20e",
+        "pair": "USDT_XAI"
+    },
+    {
+        "id": "0xd187ef795dca8f6d7aa47a22ecf67649e618b445",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "24035.848378913718639274",
+        "token0": "SAFE",
+        "token0Id": "0x4d7fa587ec8e50bd0e9cd837cb4da796f47218a1",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "SAFE_USDT"
+    },
+    {
+        "id": "0x39a163a1afabf643e38970c7e0085fc2e38ebbec",
+        "feeTier": "100",
+        "totalValueLockedUSD": "23607.449265504035535044",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "LIFE",
+        "token1Id": "0xd9eea06e2220a0e4af7ceb0f4628c3809a5025c7",
+        "pair": "USDT_LIFE"
+    },
+    {
+        "id": "0xa39d06fcf8f2aff927226816a88c9de88348f231",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "23540.75979921892257013",
+        "token0": "TOKEN",
+        "token0Id": "0x4507cef57c46789ef8d1a19ea45f4216bae2b528",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "TOKEN_USDT"
+    },
+    {
+        "id": "0x2450f6b521567f0edc8a95bf3cf5c452e4f9cc67",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "23459.70358571925034806131497740167",
+        "token0": "NMT",
+        "token0Id": "0x03aa6298f1370642642415edc0db8b957783e8d6",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "NMT_WBNB"
+    },
+    {
+        "id": "0x5654475ddd37590770e7a80d7ccf8c4788492837",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "23424.32805687433662731078979597356",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "DCNX",
+        "token1Id": "0xf106f153bd77be6d5191a07159c99c4219a1cec4",
+        "pair": "WBNB_DCNX"
+    },
+    {
+        "id": "0xe9f442cfc34d5dc921b33ae96f68d20f7463977c",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "22593.83104467309420424189775463977",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "X",
+        "token1Id": "0xdd23a3d8b57c6a31b4d863f32bf542365e407622",
+        "pair": "WBNB_X"
+    },
+    {
+        "id": "0x7919a2d35b28a3889eb64c854094e3b0def32bc2",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "22185.115820900071747498",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "BTL",
+        "token1Id": "0x708955db0d4c52ffbf9aa34af7f3ca8bf07390a8",
+        "pair": "USDT_BTL"
+    },
+    {
+        "id": "0x41938f88ab4ad64891660d219c770d3fc39f897f",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "22111.184018496924251766",
+        "token0": "BTTY",
+        "token0Id": "0x2024b9be6b03f2a57d3533ae33c7e1d0b0b4be47",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "BTTY_USDT"
+    },
+    {
+        "id": "0xbaef89a4a3884eb756501ba9c0de74d492793b94",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "21902.06333864455942919",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "BRISE",
+        "token1Id": "0x8fff93e810a2edaafc326edee51071da9d398e83",
+        "pair": "USDT_BRISE"
+    },
+    {
+        "id": "0x721fea4b7fb174c8ba4b0a87c1adf8997a17532f",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "21727.59447332129905697416059676144",
+        "token0": "LUNA",
+        "token0Id": "0x156ab3346823b651294766e23e6cf87254d68962",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "LUNA_WBNB"
+    },
+    {
+        "id": "0x238efed22c3f31e5f204f743e1cf07ef5e5d8add",
+        "feeTier": "100",
+        "totalValueLockedUSD": "21719.306212742412306728",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "HMA",
+        "token1Id": "0xefc815196e33f30c5ce42b9d7418688fe33f31a9",
+        "pair": "USDT_HMA"
+    },
+    {
+        "id": "0x57f98f90c33652e31d727047c3378293c9782c45",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "21620.943071887341150126",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "CTG",
+        "token1Id": "0x69bfa36d50d92e8985d27e6aa6e685c0325ce7b4",
+        "pair": "USDT_CTG"
+    },
+    {
+        "id": "0x9338892ac6b2b19ccf17a84d93713aa14ccb2193",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "21214.16795118108155957763933309789",
+        "token0": "CGPT",
+        "token0Id": "0x9840652dc04fb9db2c43853633f0f62be6f00f98",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "CGPT_WBNB"
+    },
+    {
+        "id": "0x9fd9041d5316f1b29285898ea5b371830b369750",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "21212.666104246156385824",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "TFT",
+        "token1Id": "0x7aa2894e96a9ec1a907a93e31ea2cace4644d7d3",
+        "pair": "USDT_TFT"
+    },
+    {
+        "id": "0x1a4c5b2c89ec2e2a1a1146944e7143f38d85ac4f",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "20763.76863492317918767130410701985",
+        "token0": "TOKEN",
+        "token0Id": "0x4507cef57c46789ef8d1a19ea45f4216bae2b528",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "TOKEN_WBNB"
+    },
+    {
+        "id": "0x73461015ed0a70e56165d461675cd60652f8f694",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "20581.31598572894393219747346468309",
+        "token0": "LOVE",
+        "token0Id": "0xb55ee890426341fe45ee6dc788d2d93d25b59063",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "LOVE_WBNB"
+    },
+    {
+        "id": "0xe4dc89139c47bef053e14bc38196ca95e8b50365",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "20552.37919827878022633187747330962",
+        "token0": "CWS",
+        "token0Id": "0x99aa29ac023057951781dc5d1784e9a4c362ce23",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "CWS_WBNB"
+    },
+    {
+        "id": "0x0e15bd8db3119eeccab9c83f0658bcf5cf38a7c3",
+        "feeTier": "100",
+        "totalValueLockedUSD": "20519.462054250734371882",
+        "token0": "NOVA",
+        "token0Id": "0x1a127daf47a3028ff4c64e930cbaec9efe6f3756",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "NOVA_USDT"
+    },
+    {
+        "id": "0xcaeed8123794c019786e524e4c2bde472f4c75fc",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "20392.64483779105154505751634033038",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "AAANA",
+        "token1Id": "0xc1ff50bc8d8c5f012adf3c9dd179944629bd57a3",
+        "pair": "WBNB_AAANA"
+    },
+    {
+        "id": "0xf962dbe45cfcb80d78a3ffc05b3e7ce5106443eb",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "20380.5874125243338441841273524806",
+        "token0": "ZEC",
+        "token0Id": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+        "token1": "ETH",
+        "token1Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "pair": "ZEC_ETH"
+    },
+    {
+        "id": "0x69608992f1be9d9053b53f39b978cb338d02fdd5",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "20282.3540239244998932278060358412",
+        "token0": "SHIELD",
+        "token0Id": "0x00f97c17f4dc4f3bfd2dd9ce5e67f3a339a8a261",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "SHIELD_WBNB"
+    },
+    {
+        "id": "0x52811a5c293c332688e303feaf5801fa6b894e0d",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "20196.54526113405336582000000000001",
+        "token0": "WEC",
+        "token0Id": "0x2ad69e58071b95c047bf78dc804db3662275b64a",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "WEC_USDT"
+    },
+    {
+        "id": "0xaa579a157b735c1bf515cd0b192e1e50b733d1bf",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "20136.91476247749772140481559427885",
+        "token0": "AI",
+        "token0Id": "0x2598c30330d5771ae9f983979209486ae26de875",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "AI_WBNB"
+    },
+    {
+        "id": "0x7d3c51d707c8c63cb9f85cec6e9f9ff0a5fb2735",
+        "feeTier": "100",
+        "totalValueLockedUSD": "20058.188108427072793326",
+        "token0": "VAI",
+        "token0Id": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
+        "token1": "USDC",
+        "token1Id": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+        "pair": "VAI_USDC"
+    },
+    {
+        "id": "0x7fb1f3c7bd15cdde30c26d66c5e78c2155807f5e",
+        "feeTier": "100",
+        "totalValueLockedUSD": "20025.059456939938606632",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "$50",
+        "token1Id": "0xff2aec2dfd8978eebf9bc036ab820e0350acf28b",
+        "pair": "USDT_$50"
+    },
+    {
+        "id": "0x4e26d812a134560ee81202f560b6965ab7feda89",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "19867.156122762304246596",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "FIST",
+        "token1Id": "0xc9882def23bc42d53895b8361d0b1edc7570bc6a",
+        "pair": "USDT_FIST"
+    },
+    {
+        "id": "0x4aa3dcdf22fc16a9843dac2dd67e2d83c7608280",
+        "feeTier": "100",
+        "totalValueLockedUSD": "19731.847325692754676538",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "LPOP",
+        "token1Id": "0xea96daa186c1fa0a709929822867ec176af8baff",
+        "pair": "USDT_LPOP"
+    },
+    {
+        "id": "0x8d8e6d7d8ee2c5d48a650abd36a89b1bf113d580",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "19720.97922822436215916463661747977",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "MONAD",
+        "token1Id": "0xfc61ec45d88048f9cea403129c81dce4470a3885",
+        "pair": "WBNB_MONAD"
+    },
+    {
+        "id": "0xb3313720101db1b074ae5bd24153a850d057ffcb",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "19049.38760245266890882295474646617",
+        "token0": "CCDAO",
+        "token0Id": "0x200f73aba0d6f8919086f64035ef900669ea2de2",
+        "token1": "ETH",
+        "token1Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "pair": "CCDAO_ETH"
+    },
+    {
+        "id": "0x36272df9b92b71be24f3efb1204a58cd554097f1",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "18764.21830910742953581370857767446",
+        "token0": "Cake",
+        "token0Id": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+        "token1": "mCake",
+        "token1Id": "0x581fa684d0ec11ccb46b1d92f1f24c8a3f95c0ca",
+        "pair": "Cake_mCake"
+    },
+    {
+        "id": "0x52dd6cf4e5efd221698544a020e76fb7cc5170b8",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "18639.70881246972223148826675800894",
+        "token0": "CLEG",
+        "token0Id": "0x4027d91ecd3140e53ae743d657549adfeebb27ab",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "CLEG_WBNB"
+    },
+    {
+        "id": "0xf683113764e4499c473acd38fc4b37e71554e4ad",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "18469.42358425326556601563140052774",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "TRX",
+        "token1Id": "0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3",
+        "pair": "WBNB_TRX"
+    },
+    {
+        "id": "0x3cccef8d9d515ec7f59eb69ad06c22265cc95ea9",
+        "feeTier": "500",
+        "totalValueLockedUSD": "18319.42788971630351148075893527113",
+        "token0": "unshETH",
+        "token0Id": "0x0ae38f7e10a43b5b2fb064b42a2f4514cba909ef",
+        "token1": "ETH",
+        "token1Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "pair": "unshETH_ETH"
+    },
+    {
+        "id": "0xd3ae217e8fc04989ec87c9a981fce46aec824ee5",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "17839.25129783516742776946778446512",
+        "token0": "ATOM",
+        "token0Id": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+        "token1": "ETH",
+        "token1Id": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+        "pair": "ATOM_ETH"
+    },
+    {
+        "id": "0xf4f69662038d84bedd2349bcdafc8ae22b17c71d",
+        "feeTier": "100",
+        "totalValueLockedUSD": "17056.5600209375578733664684963669",
+        "token0": "Polyhedra",
+        "token0Id": "0x1e762a0a1dcf94f4d94c20f4ba8d62b941d7755c",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "Polyhedra_WBNB"
+    },
+    {
+        "id": "0x0c97017fa9d2436dd582321a4e77d160a7cb3c54",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "16629.617570023276196446",
+        "token0": "OSAK",
+        "token0Id": "0x11cd72f7a4b699c67f225ca8abb20bc9f8db90c7",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "OSAK_USDT"
+    },
+    {
+        "id": "0xbe9cbde3ee6a52a3f347df11c01d7453363c3134",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "16593.26198208621279127",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "PBX",
+        "token1Id": "0xa177bdd433aea3702beb46652adcfc64248d4ab3",
+        "pair": "USDT_PBX"
+    },
+    {
+        "id": "0xc46411cf4f0813ce62925ff173fe440bb114b700",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "14614.31592562790054066935036340266",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "ZELUS",
+        "token1Id": "0xf6769d9ba88e9e0c9827b1aae33dd83da252d629",
+        "pair": "WBNB_ZELUS"
+    },
+    {
+        "id": "0x239ae0441c9d08bdb672ee189dcea6299a5865b0",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "14497.22184054418057743859397698648",
+        "token0": "ASTRAFER",
+        "token0Id": "0x248d995f14deebb179a222cd36c4767388545a62",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ASTRAFER_WBNB"
+    },
+    {
+        "id": "0xb70ec67b32e41cb6dae7d291980a69435bb60845",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "12682.134294747294673082",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "MAT",
+        "token1Id": "0x8048517e2a46eab4a6aeb98c709ed69483f04d83",
+        "pair": "USDT_MAT"
+    },
+    {
+        "id": "0x003c8bc1fedc20aa7137ed258d09692b1abef812",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "11884.72077918837810807621313643505",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "TRUSTK",
+        "token1Id": "0xee89bd9af5e72b19b48cac3e51acde3a09a3ade3",
+        "pair": "WBNB_TRUSTK"
+    },
+    {
+        "id": "0x07003daebc432ecec26309ccd1391bbbf06cc890",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "11884.35909282196653276",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "GQ",
+        "token1Id": "0xf700d4c708c2be1463e355f337603183d20e0808",
+        "pair": "USDT_GQ"
+    },
+    {
+        "id": "0x69040b55dad8eec2b71de08a54d0f11b1f6e31fc",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "11581.49896066395808419827686054236",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "TRS",
+        "token1Id": "0xf74cc13b97f0706696871bf4b7ba88057decf349",
+        "pair": "WBNB_TRS"
+    },
+    {
+        "id": "0x18bb9ac71439365c3805207f1718a9b57210f93d",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "11438.76566092515530035482678390655",
+        "token0": "MESO",
+        "token0Id": "0x9447036d033e66e61b06ee898bf207fde967c1bf",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "MESO_WBNB"
+    },
+    {
+        "id": "0xfb2d325d6162ad96f14ce622f2556cfcc2941424",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "11136.10426241123619458552767157862",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "GGG",
+        "token1Id": "0xd8047afecb86e44eff3add991b9f063ed4ca716b",
+        "pair": "WBNB_GGG"
+    },
+    {
+        "id": "0x29874fee7b84ce942bd6e06074e11c0dd615f6e0",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "11023.99453416081400631141440529552",
+        "token0": "EDA",
+        "token0Id": "0x3374a94e25606db7bea79039c042e9ef12ad324d",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "EDA_WBNB"
+    },
+    {
+        "id": "0xf5b4b24e5808daa3fbeee11df27a0994600356b4",
+        "feeTier": "100",
+        "totalValueLockedUSD": "10975.205317561559222756",
+        "token0": "VAI",
+        "token0Id": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "VAI_USDT"
+    },
+    {
+        "id": "0x55b7d55ff491d6704aa7037fa08e67dd4d030b67",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "10617.169458046901954982",
+        "token0": "CICN",
+        "token0Id": "0x21ba761f1f667daf2846d601a9440e744efd0fb3",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "CICN_USDT"
+    },
+    {
+        "id": "0x9a75d27ee753297be8655deaba58d1b55d1af53d",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "10396.05384290532930853957264505224",
+        "token0": "MSCP",
+        "token0Id": "0x27d72484f1910f5d0226afa4e03742c9cd2b297a",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "MSCP_WBNB"
+    },
+    {
+        "id": "0x57ecba58b4854f8b5f026b379b4538d7cae323ff",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "9800.001485999895305776000000000001",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "FERMA",
+        "token1Id": "0x6aa150fff813e0bec1273691f349ad080df7216d",
+        "pair": "USDT_FERMA"
+    },
+    {
+        "id": "0xf076209c0167b3e1144f4a914bf645a62d9f0168",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "9775.027536798591701234092408686382",
+        "token0": "DEFI",
+        "token0Id": "0x6d106c0b8d2f47c5465bdbd58d1be253762cbbc1",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "DEFI_WBNB"
+    },
+    {
+        "id": "0xee9ecc8032849112778a8372ef3355888ea85c55",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "9171.498942365026580690000000000002",
+        "token0": "CGPT",
+        "token0Id": "0x9840652dc04fb9db2c43853633f0f62be6f00f98",
+        "token1": "BUSD",
+        "token1Id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "pair": "CGPT_BUSD"
+    },
+    {
+        "id": "0x74ce8029094e545730f769e906099089ee8fb61a",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "8665.336423036526431849133711455906",
+        "token0": "ENTER",
+        "token0Id": "0x5bc4e94ce63c5470515cbddc903f813580a2a08d",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "ENTER_WBNB"
+    },
+    {
+        "id": "0xead47160142b3dce1713806c7c8499583c9a73b4",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "8585.024633737798883357707282040291",
+        "token0": "RVF",
+        "token0Id": "0x872a34ebb2d54af86827810eebc7b9dc6b2144aa",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "RVF_WBNB"
+    },
+    {
+        "id": "0xcf15fd932c5214df830ea3ffb31ae500e23db70f",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "8290.776919488377991701999999999999",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "BBT",
+        "token1Id": "0x734b46e6d1d8ce9094f825420d55453d23c2e1ea",
+        "pair": "USDT_BBT"
+    },
+    {
+        "id": "0x2d8b5b50033554d2645ffb782b4b96a1da994150",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "7972.496595572226479684959930616003",
+        "token0": "HUNDRED",
+        "token0Id": "0xb66279ce85ff79df18901946e65216777b093967",
+        "token1": "BUSD",
+        "token1Id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "pair": "HUNDRED_BUSD"
+    },
+    {
+        "id": "0x298accd14a6c4e004feeb2163680490bf1121a24",
+        "feeTier": "500",
+        "totalValueLockedUSD": "4828.259245478870799619687755871327",
+        "token0": "PVC",
+        "token0Id": "0x75ca521892de7f2ecfb070cab545c250d0ceb7e3",
+        "token1": "BUSD",
+        "token1Id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "pair": "PVC_BUSD"
+    },
+    {
+        "id": "0x8066be190a9b53834479f08552c7e6780338bc3d",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "4562.847494418681793595034025590929",
+        "token0": "LUNA",
+        "token0Id": "0x156ab3346823b651294766e23e6cf87254d68962",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "LUNA_WBNB"
+    },
+    {
+        "id": "0x72a69db367ae0ff529daef7350011a2b607b6529",
+        "feeTier": "500",
+        "totalValueLockedUSD": "2306.264643943148639191228614932875",
+        "token0": "BTCB",
+        "token0Id": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "token1": "ALPACA",
+        "token1Id": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
+        "pair": "BTCB_ALPACA"
+    },
+    {
+        "id": "0x89da4102853c6cf3f4e9979cbb1dc4a166f38e84",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "1758.517287960504294586",
+        "token0": "USDT",
+        "token0Id": "0x55d398326f99059ff775485246999027b3197955",
+        "token1": "DOGE",
+        "token1Id": "0xba2ae424d960c26247dd6c32edc70b295c744c43",
+        "pair": "USDT_DOGE"
+    },
+    {
+        "id": "0x92e88e8fa4f339cea0c1d89b09496223ab1e0022",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "1529.155298100209947951060132736372",
+        "token0": "HTD",
+        "token0Id": "0x5e2689412fae5c29bd575fbe1d5c1cd1e0622a8f",
+        "token1": "WBNB",
+        "token1Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "pair": "HTD_WBNB"
+    },
+    {
+        "id": "0xa6a82689cc13e7920a748b903bd536f54f2ed06c",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "230.435719806233350446",
+        "token0": "FI",
+        "token0Id": "0x1294f4183763743c7c9519bec51773fb3acd78fd",
+        "token1": "BUSD",
+        "token1Id": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "pair": "FI_BUSD"
+    },
+    {
+        "id": "0xe42cc1c771f73e77ff2eddc1966b403e2fefc5c7",
+        "feeTier": "100",
+        "totalValueLockedUSD": "116.475137310042226832",
+        "token0": "ZKT",
+        "token0Id": "0x3668eef8b0fe30e260e1706471be6543197f1769",
+        "token1": "USDT",
+        "token1Id": "0x55d398326f99059ff775485246999027b3197955",
+        "pair": "ZKT_USDT"
+    },
+    {
+        "id": "0xfabf5c3fcef6978799f3f5b10a8ee6404915c9f0",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "7.688042599241771437137734431313804",
+        "token0": "WBNB",
+        "token0Id": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "token1": "RCIP",
+        "token1Id": "0xe4390ebc7e63d2cac3ddb95cb9e096a5e19f6acb",
+        "pair": "WBNB_RCIP"
+    },
+    {
+        "id": "0xef2d97bd74bbc1a9c972d35cccaa9ac93b2a758f",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "0",
+        "token0": "FI",
+        "token0Id": "0x1294f4183763743c7c9519bec51773fb3acd78fd",
+        "token1": "BBANK",
+        "token1Id": "0xf4b5470523ccd314c6b9da041076e7d79e0df267",
+        "pair": "FI_BBANK"
+    },
+    {
+        "id": "0xeb7d3c1101cc00a4ecdcba2a7cfceb5e38b59338",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "0",
+        "token0": "BXC",
+        "token0Id": "0x8eb05c38c1d92ff74fd941ab4f7a469a5cc2ca6a",
+        "token1": "USDE",
+        "token1Id": "0xe77fddc622ca05b7791facb9176b3cb0a9ea905d",
+        "pair": "BXC_USDE"
+    },
+    {
+        "id": "0xdb5e65573b403a145242d6f3e664f484a1e55b44",
+        "feeTier": "100",
+        "totalValueLockedUSD": "0",
+        "token0": "PIRATE",
+        "token0Id": "0x35f3ffffcb622bc9f64fa561d74e983fd488d90c",
+        "token1": "PIRATE",
+        "token1Id": "0xafcc12e4040615e7afe9fb4330eb3d9120acac05",
+        "pair": "PIRATE_PIRATE"
+    },
+    {
+        "id": "0xd786095300a10bd40dde9bd4f57c39e2224943dc",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "0",
+        "token0": "SOL",
+        "token0Id": "0x570a5d26f7765ecb712c0924e4de545b89fd43df",
+        "token1": "PROS",
+        "token1Id": "0xbe1936a67f503e0eaf2434b0cf9f4e3d7100008a",
+        "pair": "SOL_PROS"
+    },
+    {
+        "id": "0xce5b43394690adccf74f9c94614fee7d274ad8ea",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "0",
+        "token0": "GMEE",
+        "token0Id": "0x84e9a6f9d240fdd33801f7135908bfa16866939a",
+        "token1": "EDU",
+        "token1Id": "0xbdeae1ca48894a1759a8374d63925f21f2ee2639",
+        "pair": "GMEE_EDU"
+    },
+    {
+        "id": "0xcad2b0ce304ec57d41b3f4a8d87031d6206e9c64",
+        "feeTier": "500",
+        "totalValueLockedUSD": "0",
+        "token0": "AAYO",
+        "token0Id": "0x64f6e6668ee699f24f12bb6e0543099240856a02",
+        "token1": "PVC",
+        "token1Id": "0x75ca521892de7f2ecfb070cab545c250d0ceb7e3",
+        "pair": "AAYO_PVC"
+    },
+    {
+        "id": "0xc4d0ea1df62b331affe8e97e7f4231bd0cf5ad18",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "0",
+        "token0": "KRIPTONIT",
+        "token0Id": "0x2f9b76a70fedb0548be6bc8289fa79f3ffc3339c",
+        "token1": "DTINTRAST",
+        "token1Id": "0x4cc3d91b7f696ece171397a784221415eeb5fcf4",
+        "pair": "KRIPTONIT_DTINTRAST"
+    },
+    {
+        "id": "0xbae60210ef1ee7e1099f9fa0fcc2ee775296908d",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "0",
+        "token0": "CENX",
+        "token0Id": "0x739e81bcd49854d7bdf526302989f14a2e7994b2",
+        "token1": "BRISE",
+        "token1Id": "0x8fff93e810a2edaafc326edee51071da9d398e83",
+        "pair": "CENX_BRISE"
+    },
+    {
+        "id": "0xb0baab55297d9446f9a23a87bac44eaa8db6cb5e",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "0",
+        "token0": "RXCG",
+        "token0Id": "0x7c59a57fc16eac270421b74615c4bc009ecd486d",
+        "token1": "TRX",
+        "token1Id": "0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3",
+        "pair": "RXCG_TRX"
+    },
+    {
+        "id": "0x9e933920e164d9d911b2258635beda72951ffb48",
+        "feeTier": "500",
+        "totalValueLockedUSD": "0",
+        "token0": "ONUS",
+        "token0Id": "0x1851ccd370c444ff494d7505e6103959bce9f9d9",
+        "token1": "VNDC",
+        "token1Id": "0xdde5b33a56f3f1c22e5a6bd8429e6ad508bff24e",
+        "pair": "ONUS_VNDC"
+    },
+    {
+        "id": "0x8a1661d3dcb0bf4a51617670217856b758a66c49",
+        "feeTier": "100",
+        "totalValueLockedUSD": "0",
+        "token0": "GRT",
+        "token0Id": "0x967309e0c9b1c44c613edc57f8dc12fce250a603",
+        "token1": "WTST",
+        "token1Id": "0xccb39e9566fdec731feb4be50706e975078cd173",
+        "pair": "GRT_WTST"
+    },
+    {
+        "id": "0x75471d457075ea0144ceeebec011d818846527cd",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "0",
+        "token0": "SAITO",
+        "token0Id": "0x3c6dad0475d3a1696b359dc04c99fd401be134da",
+        "token1": "FDUSD",
+        "token1Id": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+        "pair": "SAITO_FDUSD"
+    },
+    {
+        "id": "0x6ddff61c7a569a305bec7cf26a5b0addb288ef81",
+        "feeTier": "100",
+        "totalValueLockedUSD": "0",
+        "token0": "PANDA",
+        "token0Id": "0x5715a750f155c958bb5bafe1336826a4dd6a83cb",
+        "token1": "BDD",
+        "token1Id": "0xdfb0e306117907b8ec3467361126bf7152e03977",
+        "pair": "PANDA_BDD"
+    },
+    {
+        "id": "0x68d0ae3e6476be971001d7636c5303f374f14a98",
+        "feeTier": "100",
+        "totalValueLockedUSD": "0",
+        "token0": "PANDA",
+        "token0Id": "0x5715a750f155c958bb5bafe1336826a4dd6a83cb",
+        "token1": "TICKET",
+        "token1Id": "0x98d9417fe4e75df461cdd27a5721668cfbfaf84f",
+        "pair": "PANDA_TICKET"
+    },
+    {
+        "id": "0x67b11fed879c37c35c4fde0be843491ddcb8d054",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "0",
+        "token0": "EDU",
+        "token0Id": "0xbdeae1ca48894a1759a8374d63925f21f2ee2639",
+        "token1": "TOWER",
+        "token1Id": "0xe7c9c6bc87b86f9e5b57072f907ee6460b593924",
+        "pair": "EDU_TOWER"
+    },
+    {
+        "id": "0x5daa4662415905d77d2c9aa51118fd4d0cefe437",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "0",
+        "token0": "ASTRAFER",
+        "token0Id": "0x248d995f14deebb179a222cd36c4767388545a62",
+        "token1": "EDU",
+        "token1Id": "0xbdeae1ca48894a1759a8374d63925f21f2ee2639",
+        "pair": "ASTRAFER_EDU"
+    },
+    {
+        "id": "0x54a7a21906e6bbb4c1320d69e65888ce19caaa1a",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "0",
+        "token0": "DRIPX",
+        "token0Id": "0xecbce2c13d3a1248debfd23dcc0558b495916756",
+        "token1": "WDRIP",
+        "token1Id": "0xf30224eb7104aca47235beb3362e331ece70616a",
+        "pair": "DRIPX_WDRIP"
+    },
+    {
+        "id": "0x35f9467b5f157cd44e168c5e7c7ce0b5233adfb4",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "0",
+        "token0": "EDU",
+        "token0Id": "0xbdeae1ca48894a1759a8374d63925f21f2ee2639",
+        "token1": "PROS",
+        "token1Id": "0xed8c8aa8299c10f067496bb66f8cc7fb338a3405",
+        "pair": "EDU_PROS"
+    },
+    {
+        "id": "0x3014acc57dde05b90cc2d57af65e8ba61482ec04",
+        "feeTier": "10000",
+        "totalValueLockedUSD": "0",
+        "token0": "CCDAO",
+        "token0Id": "0x200f73aba0d6f8919086f64035ef900669ea2de2",
+        "token1": "TPT",
+        "token1Id": "0xeca41281c24451168a37211f0bc2b8645af45092",
+        "pair": "CCDAO_TPT"
+    },
+    {
+        "id": "0x1a074554b79cc84076317941cb30c2abd0fe7993",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "0",
+        "token0": "SAND",
+        "token0Id": "0x67b725d7e342d7b611fa85e859df9697d9378b2e",
+        "token1": "EDU",
+        "token1Id": "0xbdeae1ca48894a1759a8374d63925f21f2ee2639",
+        "pair": "SAND_EDU"
+    },
+    {
+        "id": "0x129eeda7739367bf33ae24da6d09e22e34f888cc",
+        "feeTier": "2500",
+        "totalValueLockedUSD": "0",
+        "token0": "LUNA",
+        "token0Id": "0x156ab3346823b651294766e23e6cf87254d68962",
+        "token1": "Shit",
+        "token1Id": "0x567351e802f52ca60b2ac9d61d5b538e9582e78d",
+        "pair": "LUNA_Shit"
+    },
+    {
+        "id": "0x09853d7e923340a1521accfba6e5d3cd5afd2abc",
+        "feeTier": "100",
+        "totalValueLockedUSD": "0",
+        "token0": "KRIPTONIT",
+        "token0Id": "0x2f9b76a70fedb0548be6bc8289fa79f3ffc3339c",
+        "token1": "DTINTRAST",
+        "token1Id": "0x4cc3d91b7f696ece171397a784221415eeb5fcf4",
+        "pair": "KRIPTONIT_DTINTRAST"
+    }
+]

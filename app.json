@@ -1,0 +1,10 @@
+{
+    "apps": [
+        {
+            "name": "apps",
+            "script": "npx",
+            "args" : "hardhat run scripts/trade.ts --network bsc"
+            
+        }
+    ]
+}
