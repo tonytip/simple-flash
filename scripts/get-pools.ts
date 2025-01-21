@@ -6,7 +6,7 @@ import {Pool} from './interfaces';
 
 const POOLS = require("../constants/pools.json");
 
-const endpoint = "https://api.thegraph.com/subgraphs/name/pancakeswap/exchange-v3-bsc";
+const endpoint = "https://api.thegraph.com/subgraphs/name/ianlapham/uniswap-v3-bsc";
 const totalPools = 21234;
 async function main() {
   await getPools();
